@@ -1,0 +1,6 @@
+# Everything is excluded by default — this repo ships only the deployable
+# website (site/). Secrets, raw source photos, backups, and working docs
+# never go to GitHub. See tasks/todo.md section F for why.
+/*
+!/site/
+!/.gitignore

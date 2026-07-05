@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /images/unit1/
+Disallow: /images/unit21/
