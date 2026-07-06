@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /images/unit1/
 Disallow: /images/unit21/
+
+Sitemap: https://janisaarinen.com/sitemap.xml

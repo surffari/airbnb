@@ -27,7 +27,7 @@ function buildSwitcher(currentLangCode, pageFilename) {
     const selected = l.code === currentLangCode ? " selected" : "";
     return `<option value="${href}"${selected}>${l.label}</option>`;
   }).join("");
-  return `<div class="lang-switcher"><label class="lang-switcher__icon" for="lang-select" aria-hidden="true">🌐</label><select id="lang-select" class="lang-switcher__select" data-lang-switcher aria-label="Language">${options}</select></div>`;
+  return `<select id="lang-select" class="lang-switcher__select" data-lang-switcher aria-label="Language">${options}</select>`;
 }
 
 function render(templateSrc, strings, ctx) {

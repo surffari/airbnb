@@ -149,7 +149,13 @@
     "parkingLocked": "🔒 O número exato da sua vaga e as instruções de acesso são compartilhados na confirmação da sua reserva.",
     "parkingMapCaption": "Vire 180° à esquerda após a rampa de entrada — a Vaga 1 fica no fundo, à esquerda.",
     "visitorParking": "<strong>Visitantes:</strong> há duas vagas de visitantes no nível térreo do estacionamento &mdash; as duas últimas vagas do lado sul do prédio. São por ordem de chegada, então tenha um plano alternativo em mente em dias mais movimentados.",
-    "streetParking": "Também há estacionamento gratuito na rua, fora do prédio, e estacionamento pago a uma curta caminhada, no Broadwater Parklands."
+    "streetParking": "Também há estacionamento gratuito na rua, fora do prédio, e estacionamento pago a uma curta caminhada, no Broadwater Parklands.",
+    "kitchenDining": "Cozinha e Refeições",
+    "kitchenUseBody": "<strong>Usando a cozinha:</strong> fique à vontade para usar a chaleira, a torradeira, o micro-ondas LG inverter, a fritadeira elétrica Philips, o forno e o cooktop de indução Franke &mdash; ligue no ponto branco. Peça uma explicação rápida se nunca tiver usado um cooktop de indução antes; se quiser usar o forno da forma tradicional, a chapa de indução precisa ser retirada primeiro.",
+    "espressoBody": "Também há uma máquina de café espresso &mdash; use apenas cápsulas da Aldi, outras marcas não encaixam.",
+    "fridgeBody": "A geladeira/freezer grande da Fisher &amp; Paykel é toda sua, com dispensador de água filtrada e máquina de gelo integrada.",
+    "dishesBody": "Deixe a louça suja na pia e nós a guardaremos, ou coloque-a você mesmo na lava-louças. Evite utensílios de metal nas panelas com revestimento antiaderente.",
+    "smokeDetectorBody": "<strong>Os detectores de fumaça são muito sensíveis</strong> &mdash; ao cozinhar algo com muita fumaça ou vapor, abra totalmente a coifa e entreabra a porta da varanda para ventilação."
   },
   "u21": {
     "nav": {
@@ -197,11 +203,8 @@
     "roomAmenitiesBody": "Seu quarto conta com um ventilador Dyson moderno para circulação de ar quando quiser, uma chaleira com café e chá, sua própria geladeira, uma mesa com uma cadeira de escritório de verdade, e uma persiana blackout tipo cassete para você dormir até mais tarde mesmo com o sol já alto.",
     "roomAmenitiesFinePrint": "Cozinhar não está incluído nesta estadia, mas fique à vontade para usar o dispensador de água gelada filtrada, xícaras e utensílios na cozinha.",
     "kitchenDining": "Cozinha e Refeições",
-    "fridgeBody": "<strong>Seu espaço na geladeira:</strong> a prateleira de cima é para seu uso. Precisa de mais espaço? Também há lugar na gaveta do freezer — é só nos avisar se estiver difícil encaixar tudo.",
-    "kitchenUseBody": "<strong>Usando a cozinha:</strong> fique à vontade para usar o cooktop (indução), forno (indução), micro-ondas, fritadeira elétrica, chaleira, torradeira e sanduicheira. Peça uma explicação rápida sobre o cooktop e o forno de indução se nunca tiver usado um antes — se quiser usar o forno da forma tradicional, a chapa de indução precisa ser retirada primeiro.",
-    "dishesBody": "Deixe a louça suja na pia e nós a guardaremos, ou coloque-a você mesmo na lava-louças. Evite utensílios de metal nas panelas com revestimento antiaderente.",
-    "smokeDetectorBody": "<strong>Os detectores de fumaça são muito sensíveis</strong> &mdash; ao cozinhar algo com muita fumaça ou vapor, abra totalmente a coifa e entreabra a porta da varanda para ventilação.",
-    "tapWaterBody": "A água da torneira é segura para beber, e há também um dispensador de água filtrada na porta da geladeira e um compartimento de gelo no freezer.",
+    "kitchenUseBody": "<strong>Cozinhar não faz parte desta estadia</strong> &mdash; as panelas riscam com facilidade e os detectores de fumaça são extremamente sensíveis, por isso o cooktop, o forno e outros aparelhos de cozinhar não estão disponíveis.",
+    "dishesBody": "Fique à vontade para pegar água, usar xícaras e copos, e talheres e utensílios, além do dispensador de água filtrada. Por favor, enxágue a louça e guarde-a depois de usar.",
     "laundryBody": "A máquina de lavar fica bem em frente à porta do seu quarto — uma <strong>LG TwinWash</strong>, com uma lavadora de tamanho normal em cima e uma pequena lavadora tipo pedestal embutida na base, para lavagens rápidas e pequenas.",
     "laundrySteps": [
       "Use a <strong>lavadora pedestal TwinWash inferior</strong> para lavar cargas pequenas mais rápido.",

@@ -149,7 +149,13 @@
     "parkingLocked": "🔒 El número exacto de tu espacio de estacionamiento y las indicaciones se comparten en la confirmación de tu reserva.",
     "parkingMapCaption": "Gira 180° a la izquierda después de la rampa de entrada — el Espacio 1 está al fondo, a la izquierda.",
     "visitorParking": "<strong>Visitantes:</strong> hay dos espacios para visitantes en el nivel del suelo del estacionamiento &mdash; los dos últimos lugares en el lado sur del edificio. Son por orden de llegada, así que ten un plan alternativo en mente en un día ocupado.",
-    "streetParking": "También hay estacionamiento gratuito en la calle fuera del edificio, y estacionamiento pago a poca distancia caminando, en Broadwater Parklands."
+    "streetParking": "También hay estacionamiento gratuito en la calle fuera del edificio, y estacionamiento pago a poca distancia caminando, en Broadwater Parklands.",
+    "kitchenDining": "Cocina y Comedor",
+    "kitchenUseBody": "<strong>Usando la cocina:</strong> eres bienvenido a usar el hervidor, la tostadora, el microondas LG inverter, la freidora de aire Philips, el horno y la encimera de inducción Franke &mdash; enciéndela en el punto blanco. Pregúntanos por una breve explicación si nunca has usado una encimera de inducción antes; si quieres usar el horno de la manera tradicional, primero hay que retirar la placa de inducción.",
+    "espressoBody": "También hay una máquina de espresso &mdash; usa solo cápsulas de Aldi, otras marcas no encajan.",
+    "fridgeBody": "El gran refrigerador/congelador Fisher &amp; Paykel es todo tuyo, con dispensador de agua filtrada y máquina de hielo integrada.",
+    "dishesBody": "Deja los platos sucios en el fregadero y los guardaremos, o puedes cargar el lavavajillas tú mismo. Evita utensilios de metal en los utensilios de cocina con teflón.",
+    "smokeDetectorBody": "<strong>Los detectores de humo son muy sensibles</strong> &mdash; al cocinar algo con mucho humo o vapor, abre completamente el extractor y entreabre la puerta del balcón para ventilar."
   },
   "u21": {
     "nav": {
@@ -197,11 +203,8 @@
     "roomAmenitiesBody": "Tu habitación viene con un moderno ventilador Dyson para circulación de aire cuando quieras, un hervidor con café y té, tu propio refrigerador, un escritorio con una silla de oficina de verdad, y una persiana blackout tipo casete para que puedas dormir hasta tarde aunque ya haya salido el sol.",
     "roomAmenitiesFinePrint": "Cocinar no está incluido en esta estadía, pero eres bienvenido a usar el dispensador de agua fría filtrada, las tazas y los utensilios en la cocina.",
     "kitchenDining": "Cocina y Comedor",
-    "fridgeBody": "<strong>Tu espacio en el refrigerador:</strong> el estante superior es para tu uso. ¿Necesitas más espacio? También hay lugar en el cajón del congelador — solo avísanos si te cuesta que todo entre.",
-    "kitchenUseBody": "<strong>Usando la cocina:</strong> eres bienvenido a usar la encimera (inducción), el horno (inducción), el microondas, la freidora de aire, el hervidor, la tostadora y la sandwichera. Pregúntanos por una breve explicación sobre la encimera y el horno de inducción si nunca has usado uno antes — si quieres usar el horno de la manera tradicional, primero hay que retirar la placa de inducción.",
-    "dishesBody": "Deja los platos sucios en el fregadero y los guardaremos, o puedes cargar el lavavajillas tú mismo. Evita utensilios de metal en los utensilios de cocina con teflón.",
-    "smokeDetectorBody": "<strong>Los detectores de humo son muy sensibles</strong> &mdash; al cocinar algo con mucho humo o vapor, abre completamente el extractor y entreabre la puerta del balcón para ventilar.",
-    "tapWaterBody": "El agua del grifo es segura para beber, y además hay un dispensador de agua filtrada en la puerta del refrigerador y un compartimento de hielo en el congelador.",
+    "kitchenUseBody": "<strong>Cocinar no forma parte de esta estadía</strong> &mdash; las ollas se rayan con facilidad y los detectores de humo son extremadamente sensibles, así que la encimera, el horno y otros electrodomésticos de cocina no están disponibles.",
+    "dishesBody": "Eres bienvenido a tomar agua, usar tazas y vasos, y los cubiertos y utensilios, además del dispensador de agua filtrada. Por favor enjuaga tus platos y guárdalos después de usarlos.",
     "laundryBody": "La lavadora está justo afuera de tu habitación, enfrente de la puerta — una <strong>LG TwinWash</strong>, con una lavadora de tamaño completo arriba y una pequeña lavadora tipo pedestal integrada en la base, para cargas rápidas y pequeñas.",
     "laundrySteps": [
       "Usa el <strong>pedestal TwinWash inferior</strong> para lavar cargas pequeñas más rápido.",

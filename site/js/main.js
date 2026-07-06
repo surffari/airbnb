@@ -37,15 +37,29 @@
   /* ---------- Encrypted content: the guest's code IS the decryption key ----------
      Sensitive fields (host contact, Wi-Fi creds, the QR photo) ship only as
      AES-256-GCM ciphertext — no plaintext and no copy of the correct code
-     exist anywhere in this file. The code from ?show_details=... (or a prior
-     visit this session) is run through PBKDF2 to derive the AES key; if it's
-     right, the GCM auth tag verifies and the plaintext comes back. If it's
-     wrong or absent, decryption throws and everything stays locked. */
+     exist anywhere in this file. The code from ?show_details=... (or a
+     30-day cookie from a prior successful unlock) is run through PBKDF2 to
+     derive the AES key; if it's right, the GCM auth tag verifies and the
+     plaintext comes back. If it's wrong or absent, decryption throws and
+     everything stays locked. */
   (function () {
     var body = document.body;
     var storeKey = body.dataset.secretStore;
     var src = body.dataset.encryptedSrc;
     if (!storeKey || !src || !window.crypto || !window.crypto.subtle) return;
+
+    function getCookie(name) {
+      var match = document.cookie.match(
+        new RegExp("(?:^|; )" + name.replace(/([.$?*|{}()[\]\\/+^])/g, "\\$1") + "=([^;]*)")
+      );
+      return match ? decodeURIComponent(match[1]) : "";
+    }
+
+    function setCookie(name, value, days) {
+      var expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString();
+      document.cookie =
+        name + "=" + encodeURIComponent(value) + "; expires=" + expires + "; path=/; SameSite=Lax";
+    }
 
     function b64ToBytes(b64) {
       var bin = atob(b64);
@@ -112,7 +126,7 @@
             });
           });
           document.documentElement.dataset.access = "1";
-          sessionStorage.setItem(storeKey, code);
+          setCookie(storeKey, code, 30);
           return true;
         })
         .catch(function () {
@@ -121,7 +135,7 @@
     }
 
     var paramCode = (new URLSearchParams(location.search).get("show_details") || "").slice(0, 6);
-    var storedCode = sessionStorage.getItem(storeKey) || "";
+    var storedCode = getCookie(storeKey);
     var candidate = paramCode || storedCode;
     if (!candidate) return;
 

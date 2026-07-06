@@ -149,7 +149,13 @@
     "parkingLocked": "🔒 Le numéro exact de votre place de stationnement et l'itinéraire sont communiqués lors de la confirmation de votre réservation.",
     "parkingMapCaption": "Tournez à 180° à gauche après la rampe d'entrée — la Place 1 se trouve tout au fond, à gauche.",
     "visitorParking": "<strong>Visiteurs :</strong> il y a deux places visiteurs au niveau du sol du parking &mdash; les deux dernières places du côté sud de l'immeuble. Elles sont attribuées au premier arrivé, premier servi, prévoyez donc une solution de secours les jours chargés.",
-    "streetParking": "Un stationnement gratuit dans la rue est également disponible à l'extérieur de l'immeuble, et un parking payant se trouve à courte distance à pied, à Broadwater Parklands."
+    "streetParking": "Un stationnement gratuit dans la rue est également disponible à l'extérieur de l'immeuble, et un parking payant se trouve à courte distance à pied, à Broadwater Parklands.",
+    "kitchenDining": "Cuisine et Repas",
+    "kitchenUseBody": "<strong>Utilisation de la cuisine :</strong> vous êtes bienvenu pour utiliser la bouilloire, le grille-pain, le micro-ondes LG inverter, la friteuse à air Philips, le four et la plaque à induction Franke &mdash; allumez-la à l'endroit marqué d'un point blanc. Demandez-nous une brève explication si vous n'avez jamais utilisé de plaque à induction ; si vous souhaitez utiliser le four de façon classique, la plaque à induction doit d'abord être retirée.",
+    "espressoBody": "Il y a aussi une machine à espresso &mdash; utilisez uniquement des capsules Aldi, les autres marques ne sont pas compatibles.",
+    "fridgeBody": "Le grand réfrigérateur/congélateur Fisher &amp; Paykel est entièrement à vous, avec un distributeur d'eau filtrée et une machine à glaçons intégrée.",
+    "dishesBody": "Laissez la vaisselle sale dans l'évier et nous la rangerons, ou chargez le lave-vaisselle vous-même. Évitez les ustensiles métalliques sur les poêles revêtues de téflon.",
+    "smokeDetectorBody": "<strong>Les détecteurs de fumée sont très sensibles</strong> &mdash; lorsque vous cuisinez quelque chose de fumant ou de vaporeux, ouvrez complètement la hotte et entrouvrez la porte du balcon pour aérer."
   },
   "u21": {
     "nav": {
@@ -197,11 +203,8 @@
     "roomAmenitiesBody": "Votre chambre est équipée d'un ventilateur Dyson moderne pour de l'air quand vous le souhaitez, d'une bouilloire avec café et thé, de votre propre réfrigérateur, d'un bureau avec une véritable chaise de bureau, et d'un store occultant type cassette pour faire la grasse matinée même une fois le soleil levé.",
     "roomAmenitiesFinePrint": "La cuisine n'est pas incluse dans ce séjour, mais vous êtes bienvenu pour utiliser le distributeur d'eau froide filtrée, les tasses et les ustensiles dans la cuisine.",
     "kitchenDining": "Cuisine et Repas",
-    "fridgeBody": "<strong>Votre espace dans le réfrigérateur :</strong> l'étagère du haut vous est réservée. Besoin de plus de place ? Il y a aussi de la place dans le tiroir du congélateur — dites-le-nous simplement si tout ne rentre pas.",
-    "kitchenUseBody": "<strong>Utilisation de la cuisine :</strong> vous êtes bienvenu pour utiliser la plaque de cuisson (induction), le four (induction), le micro-ondes, la friteuse à air, la bouilloire, le grille-pain et l'appareil à sandwichs. Demandez-nous une brève explication sur la plaque à induction et le four si vous n'en avez jamais utilisé — si vous souhaitez utiliser le four de façon classique, la plaque à induction doit d'abord être retirée.",
-    "dishesBody": "Laissez la vaisselle sale dans l'évier et nous la rangerons, ou chargez le lave-vaisselle vous-même. Évitez les ustensiles métalliques sur les poêles revêtues de téflon.",
-    "smokeDetectorBody": "<strong>Les détecteurs de fumée sont très sensibles</strong> &mdash; lorsque vous cuisinez quelque chose de fumant ou de vaporeux, ouvrez complètement la hotte et entrouvrez la porte du balcon pour aérer.",
-    "tapWaterBody": "L'eau du robinet est potable, et il y a également un distributeur d'eau filtrée dans la porte du réfrigérateur ainsi qu'un compartiment à glaçons dans le congélateur.",
+    "kitchenUseBody": "<strong>La cuisine ne fait pas partie de ce séjour</strong> &mdash; les casseroles se rayent facilement et les détecteurs de fumée sont extrêmement sensibles, c'est pourquoi la plaque de cuisson, le four et les autres appareils de cuisson ne sont pas accessibles.",
+    "dishesBody": "Vous êtes bienvenu pour prendre de l'eau, utiliser les tasses et verres, ainsi que les couverts et ustensiles, en plus du distributeur d'eau filtrée. Merci de rincer votre vaisselle et de la ranger après usage.",
     "laundryBody": "Le lave-linge se trouve juste devant votre chambre, en face de la porte — un modèle <strong>LG TwinWash</strong>, avec un lave-linge classique en haut et un petit lave-linge intégré dans le socle pour les petites charges rapides.",
     "laundrySteps": [
       "Utilisez le <strong>petit lave-linge TwinWash du bas</strong> pour laver rapidement les petites charges.",

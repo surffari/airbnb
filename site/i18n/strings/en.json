@@ -149,7 +149,13 @@
     "parkingLocked": "🔒 Your exact car space number and directions are shared with your booking confirmation.",
     "parkingMapCaption": "Turn 180° left after the entry ramp — Car Space 1 is at the far end, on the left.",
     "visitorParking": "<strong>Visitors:</strong> there are two visitor spaces on the ground level of the car park &mdash; the last two bays on the south side of the building. They're first-come, first-served, so have a back-up in mind on a busy day.",
-    "streetParking": "Free street parking is also available outside the building, and paid parking is a short walk away at Broadwater Parklands."
+    "streetParking": "Free street parking is also available outside the building, and paid parking is a short walk away at Broadwater Parklands.",
+    "kitchenDining": "Kitchen &amp; Dining",
+    "kitchenUseBody": "<strong>Using the kitchen:</strong> you're welcome to the kettle, toaster, LG inverter microwave, Phillips air fryer, oven, and the Franke induction cooktop &mdash; turn it on at the white spot. Ask us for a quick rundown if you haven't used an induction cooktop before; if you want to use the oven the conventional way, the induction plate needs to come out first.",
+    "espressoBody": "There's an espresso machine too &mdash; just use pods from Aldi, other brands won't fit.",
+    "fridgeBody": "The large Fisher &amp; Paykel fridge/freezer is all yours, with a filtered water dispenser and a built-in ice maker.",
+    "dishesBody": "Leave dirty dishes in the sink and we'll put them away, or load the dishwasher yourself. Avoid metal utensils on the Teflon cookware.",
+    "smokeDetectorBody": "<strong>The smoke detectors are very sensitive</strong> &mdash; when cooking anything smoky or steamy, pull the rangehood fully open and crack the balcony door for ventilation."
   },
   "u21": {
     "nav": {
@@ -197,11 +203,8 @@
     "roomAmenitiesBody": "Your room comes with a modern Dyson fan for airflow on demand, a kettle with coffee and tea, your own fridge, a desk with a proper office chair, and a cassette blockout blind so you can sleep in even with the sun up.",
     "roomAmenitiesFinePrint": "Cooking isn't included in this stay, but you're welcome to the filtered cold water dispenser, cups, and utensils in the kitchen.",
     "kitchenDining": "Kitchen &amp; Dining",
-    "fridgeBody": "<strong>Your fridge space:</strong> the top shelf is yours to use. Need more room? There's space in the freezer drawer too — just let us know if you're struggling to fit everything in.",
-    "kitchenUseBody": "<strong>Using the kitchen:</strong> you're welcome to the cooktop (induction), oven (induction), microwave, air fryer, kettle, toaster, and sandwich maker. Ask us for a quick rundown on the induction cooktop and oven if you haven't used one before — if you want to use the oven the conventional way, the induction plate needs to come out first.",
-    "dishesBody": "Leave dirty dishes in the sink and we'll put them away, or load the dishwasher yourself. Avoid metal utensils on the Teflon cookware.",
-    "smokeDetectorBody": "<strong>The smoke detectors are very sensitive</strong> &mdash; when cooking anything smoky or steamy, pull the rangehood fully open and crack the balcony door for ventilation.",
-    "tapWaterBody": "Tap water is safe to drink, plus there's a filtered water dispenser in the fridge door and an ice compartment in the freezer.",
+    "kitchenUseBody": "<strong>Cooking isn't part of this stay</strong> &mdash; pots and pans scratch easily and the smoke detectors are extremely sensitive, so the cooktop, oven, and other cooking appliances are off-limits.",
+    "dishesBody": "You're welcome to the water, cups and glasses, and utensils and cutlery, plus the filtered water dispenser. Please rinse your dishes and put them away after use.",
     "laundryBody": "The washing machine is just outside your room, opposite the door — an <strong>LG TwinWash</strong>, with a full-size washer up top and a small pedestal washer built into the base for quick, small loads.",
     "laundrySteps": [
       "Use the <strong>lower TwinWash pedestal</strong> to wash small loads faster.",
