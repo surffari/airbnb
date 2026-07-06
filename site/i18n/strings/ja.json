@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "u1": {
+      "title": "ユニット1 ゲストガイド — 136 Marine Parade, Southport",
+      "description": "136 Marine Parade, Southport ユニット1の完全ガイド — 鍵、Wi-Fi、駐車場、ハウスルールなど、ご滞在に必要な情報をまとめています。"
+    },
+    "u21": {
+      "title": "ユニット21 ゲストガイド — 136 Marine Parade, Southport",
+      "description": "136 Marine Parade, Southport ユニット21の完全ガイド — 鍵、Wi-Fi、キッチン、ランドリー、ハウスルールなど、ご滞在に必要な情報をまとめています。"
+    },
+    "home": {
+      "title": "136 Marine Parade, Southport — ゲストガイド",
+      "description": "136 Marine Parade, Southport（ユニット1・ユニット21）でのご滞在に必要な情報をまとめたページです。"
+    }
+  },
+  "common": {
+    "guestGuideEyebrow": "ご利用案内",
+    "guestGuideTitle": "ゲストガイド",
+    "acc": {
+      "keysAccess": "鍵と入館方法",
+      "acComfort": "エアコンと快適さ",
+      "houseRules": "ハウスルール",
+      "houseRulesFinePrint": "これらのルールに違反した場合、ご予約が即時キャンセルとなる場合があります。",
+      "pool": "プール、ジャグジー、BBQ",
+      "safety": "安全とセキュリティ",
+      "laundry": "ランドリー",
+      "parking": "駐車場",
+      "wifi": "Wi-Fi",
+      "wifiLocked": "🔒 Wi-Fi情報はご予約確認のリンクからご案内いたします。",
+      "wifiShowBtn": "Wi-Fi情報を表示",
+      "wifiHideBtn": "Wi-Fi情報を非表示",
+      "wifiQrBtn": "QRコードを表示",
+      "wifiNetwork": "ネットワーク名：",
+      "wifiPassword": "パスワード：",
+      "hostLockedNote": "🔒 ホストの氏名と直接の連絡先は、ご予約確認時にご案内いたします。"
+    },
+    "transportEyebrow": "交通アクセス",
+    "transportTitle": "アクセス方法と現地での移動",
+    "fromOOL": "ゴールドコースト空港（OOL）から",
+    "fromBNE": "ブリスベン空港（BNE）から",
+    "publicTransport": "公共交通機関",
+    "driveUber": "車 / Uber",
+    "oolPublicBody": "777番バスで Broadbeach North まで行き、そこからトラムに乗り換えて Southport へ。停留所から徒歩約1kmです。",
+    "oolDriveBody": "交通状況により約35〜45分です。",
+    "bnePublicBody": "エアトレインで Helensvale まで行き、トラムに乗り換えて Southport へ。徒歩約1kmです。",
+    "bneDriveBody": "交通状況により約60〜90分です。",
+    "gettingAround": "現地での移動方法",
+    "gettingAroundBody": "<strong>G:link</strong> トラムは Southport、Surfers Paradise、Broadbeach を結んでいます。乗車時と降車時にクレジットカードまたはデビットカードをタップするか、各駅で Go Card を購入することもできます。運賃は現在1回50セントです。",
+    "onArrival": "ご到着時のご案内",
+    "onArrivalAlert": "<strong>フロントデスクに問い合わせや依頼をしないようお願いいたします</strong> &mdash; フロントは Airbnb ゲストへの対応を行っておりません。必要な情報はすべてこのページに記載されています。それ以外のご質問は Airbnb のメッセージでお知らせください。",
+    "arrivalStep1Label": "鍵について",
+    "arrivalStep1Body": "事前にご到着前に取り決めた方法で、直接お会いするか、安全な場所に鍵を置いておきます。",
+    "arrivalStep2Label": "玄関にて",
+    "arrivalStep2Body": "正面玄関のインターホンで<strong>21号室</strong>を呼び出してください &mdash; そこが私たちの住まいです。ドアを開けるか、直接お迎えに参ります。",
+    "foodEyebrow": "食事・ドリンク",
+    "foodTitle": "おすすめのレストラン",
+    "walkingDistance": "徒歩圏内",
+    "worthTheTrip": "少し足を延ばして訪れたいお店",
+    "poi": {
+      "dak": "韓国式フライドチキン、丼もの",
+      "galB": "韓国式焼肉、テーブルで焼くスタイル",
+      "catalina": "Broadwater Parklands を望むウォーターフロントレストラン",
+      "absoluteThai": "本格的なタイカレーと炒め物",
+      "milkyLane": "ボリューム満点のバーガー、Surfers Paradise",
+      "marketta": "ナイトマーケットとストリートフード",
+      "petersHouse": "リーズナブルで陽気、そして個性的な雰囲気のお店 &mdash; 高級レストランではなく、コスパの良い人気店です",
+      "kurrawa": "眺めの良いビーチフロントレストラン",
+      "shiraz": "評価の高いペルシャ料理",
+      "burleighPavilion": "Burleigh Heads の断崖に建つレストラン",
+      "rickShores": "Burleigh Heads のアジアンフュージョン・ファインダイニング",
+      "bskt": "Nobby Beach のヘルシー志向のカフェ",
+      "mermaidSlsc": "リラックスした雰囲気のビーチクラブダイニング"
+    },
+    "exploreEyebrow": "ゴールドコースト",
+    "exploreTitle": "ゴールドコーストを巡る",
+    "hinterland": "内陸エリア",
+    "coastal": "海岸エリア",
+    "wildlifeParks": "野生動物と公園",
+    "cultureMarkets": "文化とマーケット",
+    "hota": "HOTA — 日曜開催のファーマーズ＆アーティザンマーケット",
+    "safetyEyebrow": "安全情報",
+    "emergencyTitle": "緊急連絡先",
+    "emergency": {
+      "police000Label": "緊急通報（警察・消防・救急）",
+      "policeLabel": "警察（緊急以外）",
+      "sesLabel": "SES（暴風雨・洪水対応）",
+      "poisonsLabel": "中毒情報センター",
+      "healthLabel": "13 HEALTH（看護師相談ダイヤル）",
+      "lifelineLabel": "Lifeline（24時間危機相談ダイヤル）",
+      "hospitalLabel": "ゴールドコースト大学病院",
+      "footnote": "ゴールドコースト大学病院：1 Hospital Blvd, Southport QLD 4215。お部屋に関するご質問はまず Airbnb のメッセージでご連絡ください。本当の緊急事態の場合は、必ず先に000へお電話ください。"
+    },
+    "hostEyebrow": "ホストについて",
+    "hostTitle": "現地ホスト",
+    "hostInline": "ご予約確認時にご案内します",
+    "wifiQrClose": "✕ 閉じる",
+    "backToTop": "トップに戻る",
+    "bookOnAirbnb": "Airbnbで予約する"
+  },
+  "u1": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "ユニット1 &middot; Southport ファミリーステイ"
+    },
+    "tag": "アパート貸切",
+    "title": "Southport ファミリーステイ",
+    "lede": "1階にある寝室2部屋・バスルーム2つ完備のアパート — 安全な地下駐車場、プールを見下ろすバルコニーがあり、お部屋全体をご家族だけでお使いいただけます。",
+    "features": [
+      "安全な地下駐車場込み",
+      "それぞれ専用に近いバスルームを備えた寝室2部屋",
+      "プールを見下ろす専用バルコニー",
+      "プール &middot; ジャグジー &middot; BBQ利用可",
+      "高速Wi-Fi &mdash; 建物にNBN光回線を導入、Wi-Fi 7アクセスポイント完備",
+      "ベビーベッドをご用意可能です。事前にお知らせください"
+    ],
+    "carousel": {
+      "cap1": "プールビューの窓がある広々としたリビング",
+      "cap2": "荷物を広げてゆったり過ごせる明るい2つの寝室",
+      "cap3": "IHクックトップ、オーブン、エアフライヤーを備えたフルキッチン",
+      "cap4": "光あふれる開放的なリビング・ダイニング",
+      "cap5": "ビーチで過ごした一日の後、ゆったりくつろげるソファ",
+      "cap6": "順番待ち不要の完全なバスルームが2つ",
+      "cap7": "夕暮れに灯りがともるプールを望む専用バルコニー"
+    },
+    "whatsInside": "お部屋の設備",
+    "medley": [
+      "安全な地下駐車場込み",
+      "寝室2部屋、完全なバスルーム2つ",
+      "プールを見下ろす専用バルコニー",
+      "フルキッチン：IH、オーブン、エアフライヤー＆コーヒーメーカー",
+      "NBN光回線による高速Wi-Fi 7",
+      "洗濯機＆乾燥機、アイロンとアイロン台",
+      "ご要望に応じてベビーベッドをご用意",
+      "プール、ジャグジー＆BBQ利用可"
+    ],
+    "keysAccessBody": "鍵は2つお渡しします：正面玄関とエレベーター用のグレーのキーフォブ1つと、お部屋のドア用の大きめの鍵1つ — 反時計回りに回すと開きます。",
+    "keysAccessLocked": "🔒 駐車場の入館詳細は、ご予約確認時にご案内いたします。",
+    "acComfortBody": "エアコンはリビングエリアに設置されています。アパート全体をよく冷やしますが、寝室を効果的に冷やすには、ドアを少し開けておいてください。",
+    "houseRules": [
+      "アパート内、バルコニー、プールサイド、建物内の共用エリアでの喫煙、電子タバコ、違法薬物の使用は一切禁止です。",
+      "パーティーやイベントの開催は禁止です — 近隣住民への配慮として、音量にご注意ください。",
+      "ご予約に含まれるゲストのみがアパートに滞在・利用できます。",
+      "ペットの同伴はご遠慮ください。"
+    ],
+    "poolBody": "屋外プールとジャグジー、デッキチェアや座席スペースを自由にご利用いただけます。",
+    "safetyBody": "建物とエレベーターの利用にはキーフォブをお使いください。ご利用後はドアがしっかり閉まっていることをご確認ください。",
+    "laundryBody": "手早く洗いたい場合は<strong>Quick 30</strong>コースを、しっかり洗いたい場合は<strong>Cotton Quick</strong>コースをご利用ください。洗剤カプセルを2つご用意していますので、1つをそのままドラムに入れてください。液体洗剤をご希望の場合は左側の投入口（<strong>II</strong>と表示）をご使用ください。柔軟剤は中央の投入口へ。乾燥機を使用した後は、糸くずフィルターのお掃除をお願いします。",
+    "parkingBody": "このアパートには、安全な地下駐車場内の専用駐車スペース1台分が含まれています。",
+    "parkingLocked": "🔒 正確な駐車スペース番号と行き方は、ご予約確認時にご案内いたします。",
+    "parkingMapCaption": "入口スロープを過ぎたら180°左に回ってください — 1番駐車スペースは一番奥の左側にあります。",
+    "visitorParking": "<strong>来客用駐車場について：</strong>駐車場の地上階には来客用スペースが2台分あります &mdash; 建物南側の一番奥の2区画です。先着順のご利用となりますので、混雑する日には別の場所も想定しておくと安心です。",
+    "streetParking": "建物の外には無料の路上駐車スペースもあり、徒歩圏内の Broadwater Parklands には有料駐車場もございます。"
+  },
+  "u21": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "ユニット21 &middot; Southport ウォーターフロントヘイブン"
+    },
+    "tag": "個室",
+    "title": "Southport ウォーターフロントヘイブン",
+    "lede": "5階にある専用バスルーム付きの個室で、フィンランド出身のホスト Jani の自宅内にあります — 水辺の景色を楽しめる高さにあり、バスルームは完全にお客様専用です。",
+    "features": [
+      "5階 &middot; バルコニーから Broadwater の景色を一望",
+      "専用バスルーム &mdash; アパートの他のスペースを通る必要なし",
+      "専用冷蔵庫、Dyson扇風機、デスク＆エルゴノミクスチェア",
+      "Netflixやストリーミングアプリに対応した4K Samsungテレビ"
+    ],
+    "carousel": {
+      "cap1": "バルコニーから望む Broadwater の景色",
+      "cap2": "5階の高層階にあるあなただけの個室",
+      "cap3": "完全に専用のバスルーム",
+      "cap4": "Netflixやストリーミングに対応した4K Samsungテレビ",
+      "cap5": "専用冷蔵庫、電気ケトル、Dyson扇風機",
+      "cap6": "しっかりとしたデスクとエルゴノミクスチェア"
+    },
+    "whatsInside": "お部屋の設備",
+    "medley": [
+      "専用バスルーム &mdash; 完全にあなただけのスペース",
+      "5階のバルコニー、Broadwaterの景色",
+      "専用冷蔵庫、電気ケトル＆Dyson扇風機",
+      "Netflix対応4K Samsungテレビ",
+      "しっかりとしたデスク＆エルゴノミクスチェア",
+      "朝寝坊も安心な遮光ブラインド",
+      "浄水冷水機＆製氷機能",
+      "共用プール、ジャグジー＆BBQ"
+    ],
+    "keysAccessBody": "鍵は3つお渡しします：正面玄関とエレベーター用のグレーのキーフォブ1つ、お部屋のドア用の大きめの鍵1つ（反時計回りに回して開錠）、そしてあなたの個室ドアに使う小さめの鍵1つです。",
+    "acComfortBody": "アパートにはエアコンが備わっているほか、必要な時にいつでも風通しを良くできる専用のDyson扇風機もお部屋にご用意しています。",
+    "acComfortLocked": "🔒 お部屋を快適な温度に保つコツは、ご予約確認時にご案内いたします。",
+    "houseRules": [
+      "アパート内およびバルコニーでの喫煙は禁止です。",
+      "登録されたゲストのみご利用いただけます — 未登録の訪問者はご遠慮ください。"
+    ],
+    "poolBody": "屋外プール、ジャグジー、BBQ設備、デッキチェアや座席スペースを自由にご利用いただけます。ビーチタオルが必要な場合はお知らせください。",
+    "safetyBody": "建物とエレベーターの利用にはキーフォブをお使いください。ご利用後はドアがしっかり閉まっていることをご確認ください。お部屋には専用の鍵があり、専用バスルームの外側のドアにも、プライバシー確保のために下げて使えるラッチが付いています。",
+    "roomAmenities": "お部屋の設備",
+    "roomAmenitiesBody": "お部屋には、必要な時にいつでも使える最新のDyson扇風機、コーヒーと紅茶付きの電気ケトル、専用冷蔵庫、エルゴノミクスチェア付きのデスク、そして日が昇った後もぐっすり眠れるカセット式遮光ブラインドをご用意しています。",
+    "roomAmenitiesFinePrint": "本滞在にはお料理は含まれていませんが、キッチンの浄水冷水機、カップ、食器類は自由にご利用いただけます。",
+    "kitchenDining": "キッチン＆お食事",
+    "fridgeBody": "<strong>冷蔵庫のスペースについて：</strong>上段の棚をご利用いただけます。もっとスペースが必要な場合は冷凍庫の引き出しにも空きがありますので、収まらない場合はお知らせください。",
+    "kitchenUseBody": "<strong>キッチンのご利用について：</strong>クックトップ（IH）、オーブン（IH）、電子レンジ、エアフライヤー、電気ケトル、トースター、サンドイッチメーカーを自由にご利用いただけます。IHクックトップやオーブンの使用が初めての場合は、簡単にご説明しますのでお声がけください — オーブンを通常の方法で使いたい場合は、まずIHプレートを取り外す必要があります。",
+    "dishesBody": "洗い物はシンクに置いていただければこちらで片付けますが、ご自身で食洗機に入れていただいても構いません。テフロン加工の調理器具には金属製の調理器具の使用をお控えください。",
+    "smokeDetectorBody": "<strong>火災報知器は非常に敏感です</strong> &mdash; 煙や湯気の出る料理をする際は、レンジフードを全開にし、換気のためにバルコニーのドアを少し開けてください。",
+    "tapWaterBody": "水道水はそのまま飲んでいただけます。また冷蔵庫のドアには浄水ディスペンサーが、冷凍庫には製氷スペースがございます。",
+    "laundryBody": "洗濯機はお部屋のドアのすぐ外、向かい側にあります — <strong>LGツインウォッシュ</strong>で、上段に標準サイズの洗濯機、下部の台座に少量をすばやく洗える小型洗濯機が内蔵されています。",
+    "laundrySteps": [
+      "少量の洗濯物を手早く洗うには<strong>下段のツインウォッシュ小型洗濯機</strong>をご利用ください。",
+      "通常量の洗濯物には<strong>上段の洗濯機</strong>をご利用ください。",
+      "右上のスイッチで電源を入れてください。",
+      "丸い操作パネルで洗濯機（上段か下段）を選び、コースを選択してください。",
+      "洗剤は自動投入されますので、ご自身で入れる必要はありません。"
+    ],
+    "twinwashCap1": "通常サイズの洗濯物用の上段洗濯機",
+    "twinwashCap2": "丸い操作パネル &mdash; 洗濯機とコースを選択",
+    "twinwashCap3": "少量をすばやく洗える下段の小型洗濯機",
+    "laundryDryerBody": "乾燥機もご自由にお使いいただけます &mdash; 45〜60分のコースを選び、使用後は糸くずフィルターのお掃除をお願いします。アイロンとアイロン台もご用意しており、自然乾燥をご希望の場合はバルコニーに物干しラックもございます。長期滞在中で新しいシーツやタオルが必要な場合は、いつでもお知らせください。"
+  },
+  "home": {
+    "nav": {
+      "eyebrow": "136 Marine Parade &middot; Southport"
+    },
+    "heroEyebrow": "Southport &middot; ゴールドコースト &middot; オーストラリア",
+    "heroTitle": "2つの滞在先、<br />同じ住所。",
+    "ctaU1": "ユニット1 — アパート貸切",
+    "ctaU21": "ユニット21 — 個室",
+    "fullGuestGuide": "ゲストガイド全文を見る",
+    "locationEyebrow": "立地",
+    "locationTitle": "何をするにも便利な立地",
+    "locationBody": "136 Marine Parade は Broadwater 沿いに位置し、トラムで Surfers Paradise や Broadbeach へも気軽にアクセスできます。",
+    "poiTags": [
+      "Main Beach",
+      "Surfers Paradise",
+      "Australia Fair",
+      "Marina Mirage",
+      "Sea World",
+      "Broadwater Parklands",
+      "ゴールドコースト・アクアティックセンター",
+      "Scarborough Street"
+    ],
+    "hostEyebrow": "ホストについて",
+    "hostTitle": "ご滞在の方へ",
+    "hostBody": "上記のユニットのゲストガイド全文で、鍵、Wi-Fi、駐車場など必要な情報をご確認ください。その他のご質問は、まず Airbnb のメッセージでご連絡ください。"
+  }
+}
