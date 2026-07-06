@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "u1": {
+      "title": "Unit 1 Guest Guide — 136 Marine Parade, Southport",
+      "description": "Full guest guide for Unit 1 at 136 Marine Parade, Southport — keys, Wi-Fi, parking, house rules, and everything else you need."
+    },
+    "u21": {
+      "title": "Unit 21 Guest Guide — 136 Marine Parade, Southport",
+      "description": "Full guest guide for Unit 21 at 136 Marine Parade, Southport — keys, Wi-Fi, kitchen, laundry, house rules, and everything else you need."
+    },
+    "home": {
+      "title": "136 Marine Parade, Southport — Guest Guide",
+      "description": "Everything you need for your stay at 136 Marine Parade, Southport — Unit 1 and Unit 21."
+    }
+  },
+  "common": {
+    "guestGuideEyebrow": "Instructions",
+    "guestGuideTitle": "Guest Guide",
+    "acc": {
+      "keysAccess": "Keys &amp; Access",
+      "acComfort": "Air Conditioning &amp; Comfort",
+      "houseRules": "House Rules",
+      "houseRulesFinePrint": "Breaking these rules may result in immediate cancellation of your stay.",
+      "pool": "Pool, Jacuzzi &amp; BBQ",
+      "safety": "Safety &amp; Security",
+      "laundry": "Laundry",
+      "parking": "Parking",
+      "wifi": "Wi-Fi",
+      "wifiLocked": "🔒 Wi-Fi details are available via the link in your booking confirmation.",
+      "wifiShowBtn": "Show Wi-Fi Details",
+      "wifiHideBtn": "Hide Wi-Fi Details",
+      "wifiQrBtn": "Show QR Code",
+      "wifiNetwork": "Network:",
+      "wifiPassword": "Password:",
+      "hostLockedNote": "🔒 Your host's name and direct contact details are shared with your booking confirmation."
+    },
+    "transportEyebrow": "Transport",
+    "transportTitle": "Getting Here &amp; Around",
+    "fromOOL": "From Gold Coast Airport (OOL)",
+    "fromBNE": "From Brisbane Airport (BNE)",
+    "publicTransport": "Public transport",
+    "driveUber": "Drive / Uber",
+    "oolPublicBody": "Bus 777 to Broadbeach North, then tram to Southport. About a 1&nbsp;km walk from the stop.",
+    "oolDriveBody": "35&ndash;45 minutes, depending on traffic.",
+    "bnePublicBody": "Airtrain to Helensvale, then tram to Southport. About a 1&nbsp;km walk.",
+    "bneDriveBody": "60&ndash;90 minutes, depending on traffic.",
+    "gettingAround": "Getting Around",
+    "gettingAroundBody": "The <strong>G:link</strong> tram connects Southport, Surfers Paradise, and Broadbeach. Tap your credit or debit card on boarding and off on exit, or pick up a Go Card at any station. Fares are currently 50 cents per journey.",
+    "onArrival": "On Arrival",
+    "onArrivalAlert": "<strong>Please don't ask reception for help or information</strong> &mdash; they don't assist Airbnb guests. Everything you need is right here, or message us on Airbnb.",
+    "arrivalStep1Label": "Your key",
+    "arrivalStep1Body": "We'll meet you in person or leave the key in a secure spot, agreed with you before you arrive.",
+    "arrivalStep2Label": "At the door",
+    "arrivalStep2Body": "Buzz <strong>Unit 21</strong> on the intercom at the main entrance &mdash; that's where we live, and we'll let you in or come down to meet you.",
+    "foodEyebrow": "Food &amp; Drink",
+    "foodTitle": "Where to Eat",
+    "walkingDistance": "Walking Distance",
+    "worthTheTrip": "Worth the Trip",
+    "poi": {
+      "dak": "Korean fried chicken, rice bowls",
+      "galB": "Korean BBQ, cook-at-your-table",
+      "catalina": "Waterfront dining over Broadwater Parklands",
+      "absoluteThai": "Authentic Thai curries and stir-fries",
+      "milkyLane": "Loaded burgers, Surfers Paradise",
+      "marketta": "Night markets and street food",
+      "petersHouse": "Cheap, cheerful and gloriously eccentric &mdash; a budget favourite, not fine dining",
+      "kurrawa": "Beachfront dining with views",
+      "shiraz": "Highly rated Persian cuisine",
+      "burleighPavilion": "Cliff-top restaurant, Burleigh Heads",
+      "rickShores": "Asian-inspired fine dining, Burleigh Heads",
+      "bskt": "Health-focused café, Nobby Beach",
+      "mermaidSlsc": "Casual beach club dining"
+    },
+    "exploreEyebrow": "Gold Coast",
+    "exploreTitle": "Explore the Gold Coast",
+    "hinterland": "Hinterland",
+    "coastal": "Coastal",
+    "wildlifeParks": "Wildlife &amp; Parks",
+    "cultureMarkets": "Culture &amp; Markets",
+    "hota": "HOTA — Sunday Farmers &amp; Artisan Markets",
+    "safetyEyebrow": "Safety",
+    "emergencyTitle": "Emergency Contacts",
+    "emergency": {
+      "police000Label": "Emergency (police, fire, ambulance)",
+      "policeLabel": "Police (non-emergency)",
+      "sesLabel": "SES (storms &amp; floods)",
+      "poisonsLabel": "Poisons Information",
+      "healthLabel": "13 HEALTH (nurse advice line)",
+      "lifelineLabel": "Lifeline (24/7 crisis support)",
+      "hospitalLabel": "Gold Coast University Hospital",
+      "footnote": "Gold Coast University Hospital: 1 Hospital Blvd, Southport QLD 4215. For anything about the apartment itself, message us first through Airbnb — in a genuine emergency, always call 000 first."
+    },
+    "hostEyebrow": "Your Host",
+    "hostTitle": "Your Local Host",
+    "hostInline": "available with booking confirmation",
+    "wifiQrClose": "✕ Close",
+    "backToTop": "Back to top",
+    "bookOnAirbnb": "Book on Airbnb"
+  },
+  "u1": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "Unit 1 &middot; Southport Family Stay"
+    },
+    "tag": "Entire Apartment",
+    "title": "Southport Family Stay",
+    "lede": "A complete two-bedroom, two-bathroom apartment on the 1st floor — secure underground parking, a balcony over the pool, and the whole place to yourselves.",
+    "features": [
+      "Secure underground parking, included",
+      "Two bedrooms, each with a bathroom practically to itself",
+      "Private balcony overlooking the pool",
+      "Pool &middot; Jacuzzi &middot; BBQ access",
+      "Fast Wi-Fi &mdash; NBN fibre to the building with a Wi-Fi 7 access point",
+      "Travel cot included, just ask and we'll have it made up"
+    ],
+    "carousel": {
+      "cap1": "The lounge opens onto a pool-view window",
+      "cap2": "Two bright bedrooms, room to unpack",
+      "cap3": "A full kitchen &mdash; induction cooktop, oven, air fryer",
+      "cap4": "Light-filled open-plan living and dining",
+      "cap5": "Sink into the sofa after a day at the beach",
+      "cap6": "Two full bathrooms, no queue for the shower",
+      "cap7": "Your balcony over the pool, lit up at dusk"
+    },
+    "whatsInside": "What's inside",
+    "medley": [
+      "Secure underground parking, included",
+      "Two bedrooms &amp; two full bathrooms",
+      "Private balcony over the pool",
+      "Full kitchen: induction, oven, air fryer &amp; coffee",
+      "Fast Wi-Fi 7 on NBN fibre",
+      "Washer &amp; dryer, iron and board",
+      "Travel cot, made up on request",
+      "Pool, jacuzzi &amp; BBQ access"
+    ],
+    "keysAccessBody": "You'll receive two keys: a gray key fob for the main entrance and lift, and a larger key for the apartment door — turn it counterclockwise to open.",
+    "keysAccessLocked": "🔒 Car park access details are shared with your booking confirmation.",
+    "acComfortBody": "The air conditioner is in the living area. It cools the apartment well, but for the bedrooms to cool down effectively, keep the doors open slightly.",
+    "houseRules": [
+      "No smoking, vaping, or illicit drugs anywhere inside the apartment, on the balcony, by the pool, or in any common area of the building.",
+      "No parties or events — please keep noise considerate of the neighbours.",
+      "Only guests included in the booking may stay at or use the apartment.",
+      "No pets."
+    ],
+    "poolBody": "You have full access to the outdoor pool and jacuzzi, including the deck chairs and seating.",
+    "safetyBody": "Use your key fob for building and lift access, and make sure doors close behind you.",
+    "laundryBody": "Use the <strong>Quick 30</strong> cycle for a fast wash, or <strong>Cotton Quick</strong> for something more thorough. Two detergent capsules are provided — place one directly in the drum. Prefer liquid detergent? Use the left drawer slot (marked <strong>II</strong>); fabric softener goes in the middle slot. If you use the dryer, clean the lint filter between loads.",
+    "parkingBody": "One reserved space in the secure underground car park is included with this apartment.",
+    "parkingLocked": "🔒 Your exact car space number and directions are shared with your booking confirmation.",
+    "parkingMapCaption": "Turn 180° left after the entry ramp — Car Space 1 is at the far end, on the left.",
+    "visitorParking": "<strong>Visitors:</strong> there are two visitor spaces on the ground level of the car park &mdash; the last two bays on the south side of the building. They're first-come, first-served, so have a back-up in mind on a busy day.",
+    "streetParking": "Free street parking is also available outside the building, and paid parking is a short walk away at Broadwater Parklands."
+  },
+  "u21": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "Unit 21 &middot; Southport Waterfront Haven"
+    },
+    "tag": "Private Room",
+    "title": "Southport Waterfront Haven",
+    "lede": "A private ensuite room on the 5th floor, in the home of your Finnish host Jani — high enough for water views, with a bathroom that's genuinely your own.",
+    "features": [
+      "5th floor &middot; Broadwater views from the balcony",
+      "Private ensuite &mdash; no crossing the apartment",
+      "Own fridge, Dyson fan, desk &amp; ergonomic chair",
+      "4K Samsung TV with Netflix &amp; streaming apps"
+    ],
+    "carousel": {
+      "cap1": "Broadwater views from your balcony",
+      "cap2": "Your private room, high on the 5th floor",
+      "cap3": "A private ensuite that's genuinely your own",
+      "cap4": "4K Samsung TV with Netflix and streaming",
+      "cap5": "Your own fridge, kettle and Dyson fan",
+      "cap6": "A proper desk and ergonomic chair"
+    },
+    "whatsInside": "What's in your room",
+    "medley": [
+      "Private ensuite &mdash; your own bathroom",
+      "5th-floor balcony, Broadwater views",
+      "Your own fridge, kettle &amp; Dyson fan",
+      "4K Samsung TV with Netflix",
+      "Proper desk &amp; ergonomic chair",
+      "Blockout blind for a proper sleep-in",
+      "Filtered cold-water dispenser &amp; ice",
+      "Shared pool, jacuzzi &amp; BBQ"
+    ],
+    "keysAccessBody": "You'll receive three keys: a gray key fob for the main entrance and lift, a larger key for the apartment door (turn counterclockwise to open), and a smaller key that locks your private room door.",
+    "acComfortBody": "The apartment has air conditioning, plus your own Dyson fan in the room for extra airflow whenever you want it.",
+    "acComfortLocked": "🔒 Tips for the best temperature in your room are shared with your booking confirmation.",
+    "houseRules": [
+      "No smoking inside the apartment or on the balconies.",
+      "Only registered guests — no unlisted visitors."
+    ],
+    "poolBody": "You have full access to the outdoor pool, jacuzzi, and BBQ, including deck chairs and seating. Ask us if you'd like a beach towel.",
+    "safetyBody": "Use your key fob for building and lift access, and make sure doors close behind you. Your room has its own lock, and the ensuite bathroom's outer door has a latch you can push down for extra privacy.",
+    "roomAmenities": "Room Amenities",
+    "roomAmenitiesBody": "Your room comes with a modern Dyson fan for airflow on demand, a kettle with coffee and tea, your own fridge, a desk with a proper office chair, and a cassette blockout blind so you can sleep in even with the sun up.",
+    "roomAmenitiesFinePrint": "Cooking isn't included in this stay, but you're welcome to the filtered cold water dispenser, cups, and utensils in the kitchen.",
+    "kitchenDining": "Kitchen &amp; Dining",
+    "fridgeBody": "<strong>Your fridge space:</strong> the top shelf is yours to use. Need more room? There's space in the freezer drawer too — just let us know if you're struggling to fit everything in.",
+    "kitchenUseBody": "<strong>Using the kitchen:</strong> you're welcome to the cooktop (induction), oven (induction), microwave, air fryer, kettle, toaster, and sandwich maker. Ask us for a quick rundown on the induction cooktop and oven if you haven't used one before — if you want to use the oven the conventional way, the induction plate needs to come out first.",
+    "dishesBody": "Leave dirty dishes in the sink and we'll put them away, or load the dishwasher yourself. Avoid metal utensils on the Teflon cookware.",
+    "smokeDetectorBody": "<strong>The smoke detectors are very sensitive</strong> &mdash; when cooking anything smoky or steamy, pull the rangehood fully open and crack the balcony door for ventilation.",
+    "tapWaterBody": "Tap water is safe to drink, plus there's a filtered water dispenser in the fridge door and an ice compartment in the freezer.",
+    "laundryBody": "The washing machine is just outside your room, opposite the door — an <strong>LG TwinWash</strong>, with a full-size washer up top and a small pedestal washer built into the base for quick, small loads.",
+    "laundrySteps": [
+      "Use the <strong>lower TwinWash pedestal</strong> to wash small loads faster.",
+      "Use the <strong>top washer</strong> for normal-sized loads.",
+      "Turn the machine on from the switch in the top right corner.",
+      "Use the round control panel to choose which washer (top or bottom), then pick your program.",
+      "Detergent is dispensed automatically — no need to add your own."
+    ],
+    "twinwashCap1": "Top washer, for normal loads",
+    "twinwashCap2": "Round panel &mdash; pick washer &amp; program",
+    "twinwashCap3": "Lower pedestal, for quick small loads",
+    "laundryDryerBody": "You're welcome to use the dryer too — choose a 45&ndash;60 minute cycle and clean the lint filter after. An iron and ironing board are available, and there's a drying rack on the balcony if you'd rather air-dry. Staying longer? Just ask if you need fresh linen or towels."
+  },
+  "home": {
+    "nav": {
+      "eyebrow": "136 Marine Parade &middot; Southport"
+    },
+    "heroEyebrow": "Southport &middot; Gold Coast &middot; Australia",
+    "heroTitle": "Two stays,<br />one address.",
+    "ctaU1": "Unit 1 — Entire Apartment",
+    "ctaU21": "Unit 21 — Private Room",
+    "fullGuestGuide": "Full Guest Guide",
+    "locationEyebrow": "Location",
+    "locationTitle": "Right in the Middle of It",
+    "locationBody": "136 Marine Parade sits on the Broadwater, an easy tram ride from Surfers Paradise and Broadbeach.",
+    "poiTags": [
+      "Main Beach",
+      "Surfers Paradise",
+      "Australia Fair",
+      "Marina Mirage",
+      "Sea World",
+      "Broadwater Parklands",
+      "Gold Coast Aquatic Centre",
+      "Scarborough Street"
+    ],
+    "hostEyebrow": "Your Host",
+    "hostTitle": "Staying with us?",
+    "hostBody": "Open your unit's full guest guide above for keys, Wi-Fi, parking, and everything else you'll need. For anything else, message us first through Airbnb."
+  }
+}

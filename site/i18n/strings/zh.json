@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "u1": {
+      "title": "1号公寓入住指南 — 136 Marine Parade, Southport",
+      "description": "1号公寓（136 Marine Parade, Southport）完整入住指南 — 钥匙、Wi-Fi、停车、房屋规定及入住须知。"
+    },
+    "u21": {
+      "title": "21号房间入住指南 — 136 Marine Parade, Southport",
+      "description": "21号房间（136 Marine Parade, Southport）完整入住指南 — 钥匙、Wi-Fi、厨房、洗衣、房屋规定及入住须知。"
+    },
+    "home": {
+      "title": "136 Marine Parade, Southport — 入住指南",
+      "description": "入住136 Marine Parade, Southport（1号公寓和21号房间）所需的一切信息。"
+    }
+  },
+  "common": {
+    "guestGuideEyebrow": "入住说明",
+    "guestGuideTitle": "入住指南",
+    "acc": {
+      "keysAccess": "钥匙与门禁",
+      "acComfort": "空调与舒适度",
+      "houseRules": "房屋规定",
+      "houseRulesFinePrint": "违反上述规定可能导致立即取消您的住宿。",
+      "pool": "泳池、按摩浴缸与烧烤区",
+      "safety": "安全与保安",
+      "laundry": "洗衣设施",
+      "parking": "停车",
+      "wifi": "Wi-Fi",
+      "wifiLocked": "🔒 Wi-Fi 信息将通过您的预订确认链接提供。",
+      "wifiShowBtn": "显示 Wi-Fi 信息",
+      "wifiHideBtn": "隐藏 Wi-Fi 信息",
+      "wifiQrBtn": "显示二维码",
+      "wifiNetwork": "网络名称：",
+      "wifiPassword": "密码：",
+      "hostLockedNote": "🔒 房东姓名及直接联系方式将通过您的预订确认提供。"
+    },
+    "transportEyebrow": "交通",
+    "transportTitle": "如何抵达与市内交通",
+    "fromOOL": "从黄金海岸机场 (OOL) 出发",
+    "fromBNE": "从布里斯班机场 (BNE) 出发",
+    "publicTransport": "公共交通",
+    "driveUber": "自驾 / Uber",
+    "oolPublicBody": "乘坐777路公交车到 Broadbeach North，再换乘轻轨到 Southport。下车后步行约1公里。",
+    "oolDriveBody": "视路况而定，约35&ndash;45分钟。",
+    "bnePublicBody": "乘坐机场快线 (Airtrain) 到 Helensvale，再换乘轻轨到 Southport。步行约1公里。",
+    "bneDriveBody": "视路况而定，约60&ndash;90分钟。",
+    "gettingAround": "市内出行",
+    "gettingAroundBody": "<strong>G:link</strong> 轻轨连接 Southport、Surfers Paradise 和 Broadbeach。上车和下车时刷信用卡或借记卡即可，也可在任意车站购买 Go Card。目前票价为每程50美分。",
+    "onArrival": "抵达须知",
+    "onArrivalAlert": "<strong>请勿向前台寻求帮助或咨询信息</strong> &mdash; 前台不为 Airbnb 房客提供服务。您所需要的一切信息都在本页面中，或直接通过 Airbnb 给我们发消息。",
+    "arrivalStep1Label": "您的钥匙",
+    "arrivalStep1Body": "我们会亲自与您见面，或按照您到达前与我们约定好的方式，将钥匙留在安全地点。",
+    "arrivalStep2Label": "到达门口",
+    "arrivalStep2Body": "在正门对讲机上按 <strong>21号房间</strong> 键 &mdash; 那是我们的住处，我们会为您开门或下楼迎接您。",
+    "foodEyebrow": "餐饮",
+    "foodTitle": "周边美食",
+    "walkingDistance": "步行可达",
+    "worthTheTrip": "值得专程前往",
+    "poi": {
+      "dak": "韩式炸鸡，拌饭",
+      "galB": "韩式烤肉，自助烤制",
+      "catalina": "Broadwater Parklands 旁的水岸餐厅",
+      "absoluteThai": "地道泰式咖喱与炒菜",
+      "milkyLane": "满料汉堡，位于 Surfers Paradise",
+      "marketta": "夜市与街头美食",
+      "petersHouse": "便宜实惠、气氛轻松，风格独树一帜 &mdash; 深受喜爱的平价小店，并非高档餐厅",
+      "kurrawa": "可观海景的海滨餐厅",
+      "shiraz": "口碑极佳的波斯菜",
+      "burleighPavilion": "位于 Burleigh Heads 的悬崖餐厅",
+      "rickShores": "位于 Burleigh Heads 的亚洲风味精致餐厅",
+      "bskt": "位于 Nobby Beach 的健康轻食咖啡馆",
+      "mermaidSlsc": "轻松惬意的海滩俱乐部餐饮"
+    },
+    "exploreEyebrow": "黄金海岸",
+    "exploreTitle": "探索黄金海岸",
+    "hinterland": "内陆山区",
+    "coastal": "海岸风光",
+    "wildlifeParks": "野生动物与公园",
+    "cultureMarkets": "文化与集市",
+    "hota": "HOTA — 周日农夫与手工艺集市",
+    "safetyEyebrow": "安全",
+    "emergencyTitle": "紧急联系方式",
+    "emergency": {
+      "police000Label": "紧急求助（警察、消防、救护车）",
+      "policeLabel": "警察（非紧急情况）",
+      "sesLabel": "州应急服务 SES（风暴与洪水）",
+      "poisonsLabel": "中毒信息咨询",
+      "healthLabel": "13 HEALTH（护士健康咨询热线）",
+      "lifelineLabel": "Lifeline（24小时危机支援热线）",
+      "hospitalLabel": "黄金海岸大学医院",
+      "footnote": "黄金海岸大学医院地址：1 Hospital Blvd, Southport QLD 4215。如有关于公寓本身的问题，请先通过 Airbnb 给我们发消息；如遇真正的紧急情况，请务必先拨打000。"
+    },
+    "hostEyebrow": "您的房东",
+    "hostTitle": "您的本地房东",
+    "hostInline": "将在预订确认后提供",
+    "wifiQrClose": "✕ 关闭",
+    "backToTop": "返回顶部",
+    "bookOnAirbnb": "在 Airbnb 上预订"
+  },
+  "u1": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "1号公寓 &middot; Southport 家庭度假"
+    },
+    "tag": "整套公寓",
+    "title": "Southport 家庭度假公寓",
+    "lede": "位于1楼的完整两房两卫公寓 — 配备安全地下停车位、俯瞰泳池的阳台，整套公寓仅供您和家人使用。",
+    "features": [
+      "含安全地下停车位",
+      "两间卧室，几乎各自配有独立卫浴",
+      "私人阳台，俯瞰泳池",
+      "泳池 &middot; 按摩浴缸 &middot; 烧烤区",
+      "高速 Wi-Fi &mdash; 楼宇接入 NBN 光纤，配备 Wi-Fi 7 接入点",
+      "备有婴儿床，提前告知即可为您准备好"
+    ],
+    "carousel": {
+      "cap1": "客厅的大窗户正对泳池美景",
+      "cap2": "两间明亮的卧室，空间充裕",
+      "cap3": "设备齐全的厨房 &mdash; 电磁炉、烤箱、空气炸锅",
+      "cap4": "光线充足的开放式起居餐厅",
+      "cap5": "沙滩游玩一天后，窝进沙发放松身心",
+      "cap6": "两间完整卫浴，淋浴无需排队",
+      "cap7": "傍晚灯光点亮下，俯瞰泳池的专属阳台"
+    },
+    "whatsInside": "公寓设施一览",
+    "medley": [
+      "含安全地下停车位",
+      "两间卧室及两间完整卫浴",
+      "俯瞰泳池的私人阳台",
+      "齐全厨房：电磁炉、烤箱、空气炸锅与咖啡机",
+      "NBN 光纤高速 Wi-Fi 7",
+      "洗衣机与烘干机，配熨斗及烫衣板",
+      "婴儿床，提前告知即可准备",
+      "泳池、按摩浴缸及烧烤区"
+    ],
+    "keysAccessBody": "您将收到两把钥匙：一枚灰色门禁卡，用于大门和电梯；一把较大的钥匙用于公寓房门 — 逆时针转动即可开门。",
+    "keysAccessLocked": "🔒 停车场门禁详情将通过您的预订确认提供。",
+    "acComfortBody": "空调安装在客厅区域，制冷效果良好；若要让卧室更快降温，请将房门稍微留一条缝。",
+    "houseRules": [
+      "公寓内、阳台上、泳池边及楼内任何公共区域均严禁吸烟、使用电子烟或违禁药物。",
+      "禁止举办派对或聚会活动 — 请注意控制音量，顾及邻居感受。",
+      "仅限预订名单中的房客入住或使用公寓。",
+      "谢绝携带宠物。"
+    ],
+    "poolBody": "您可自由使用室外泳池和按摩浴缸，包括躺椅和休息座位区。",
+    "safetyBody": "请使用门禁卡进出楼宇及乘坐电梯，并确保身后的门已关好。",
+    "laundryBody": "使用 <strong>Quick 30</strong> 快洗程序可快速洗完衣物，或选择 <strong>Cotton Quick</strong> 进行更彻底的清洗。已为您准备两颗洗衣凝珠 — 请将一颗直接放入滚筒内。偏好使用液体洗衣液？请倒入左侧抽屉格（标有 <strong>II</strong>）；柔顺剂请倒入中间格。使用烘干机后，请清理绒毛过滤网。",
+    "parkingBody": "本公寓附带一个安全地下停车场的固定车位。",
+    "parkingLocked": "🔒 您的具体车位号码及路线指引将通过预订确认提供。",
+    "parkingMapCaption": "进入车库坡道后向左转180° — 1号车位位于最里端左侧。",
+    "visitorParking": "<strong>访客提示：</strong>车库地面层设有两个访客车位 &mdash; 位于大楼南侧的最后两个车位。车位采用先到先得制，建议在繁忙时段准备备用方案。",
+    "streetParking": "楼外也提供免费路边停车位，此外步行不远处的 Broadwater Parklands 设有收费停车场。"
+  },
+  "u21": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "21号房间 &middot; Southport 水岸雅居"
+    },
+    "tag": "私人房间",
+    "title": "Southport 水岸雅居",
+    "lede": "位于5楼的私人套间，是芬兰籍房东 Jani 家中的一间客房 — 楼层够高可欣赏水景，卫浴也完全属于您私人专用。",
+    "features": [
+      "5楼 &middot; 阳台可欣赏 Broadwater 水岸景色",
+      "私人套内卫浴 &mdash; 无需穿越公寓其他区域",
+      "独立冰箱、Dyson 风扇、书桌及人体工学座椅",
+      "4K 三星电视，支持 Netflix 及流媒体应用"
+    ],
+    "carousel": {
+      "cap1": "阳台可欣赏 Broadwater 水岸景色",
+      "cap2": "您的私人房间，位于5楼高处",
+      "cap3": "完全属于您私人专用的套内卫浴",
+      "cap4": "4K 三星电视，支持 Netflix 及流媒体",
+      "cap5": "独立冰箱、热水壶及 Dyson 风扇",
+      "cap6": "配备正规书桌与人体工学座椅"
+    },
+    "whatsInside": "房间内设施一览",
+    "medley": [
+      "私人套内卫浴 &mdash; 完全属于您自己",
+      "5楼阳台，可赏 Broadwater 水岸景色",
+      "独立冰箱、热水壶及 Dyson 风扇",
+      "4K 三星电视，支持 Netflix",
+      "正规书桌与人体工学座椅",
+      "遮光卷帘，让您安心睡到自然醒",
+      "过滤冷水机及制冰功能",
+      "共用泳池、按摩浴缸及烧烤区"
+    ],
+    "keysAccessBody": "您将收到三把钥匙：一枚灰色门禁卡，用于大门和电梯；一把较大的钥匙用于公寓房门（逆时针转动开门）；以及一把用于锁您私人房间门的小钥匙。",
+    "acComfortBody": "公寓配有中央空调，房间内还有您专属的 Dyson 风扇，可随时增加空气流通。",
+    "acComfortLocked": "🔒 关于房间内最佳温度设置的小贴士将通过预订确认提供。",
+    "houseRules": [
+      "公寓内及阳台上均严禁吸烟。",
+      "仅限登记在册的房客入住 — 谢绝未登记的访客。"
+    ],
+    "poolBody": "您可自由使用室外泳池、按摩浴缸及烧烤区，包括躺椅和休息座位区。如需沙滩巾，请随时告知我们。",
+    "safetyBody": "请使用门禁卡进出楼宇及乘坐电梯，并确保身后的门已关好。您的房间配有独立门锁，套内卫浴的外门也设有插销，可按下以获得额外私密性。",
+    "roomAmenities": "房间设施",
+    "roomAmenitiesBody": "房间配备现代化 Dyson 风扇，可随时增加空气流通；还有热水壶（含咖啡与茶包）、独立冰箱、配人体工学座椅的书桌，以及卡式遮光卷帘，让您即使日出后也能安心补眠。",
+    "roomAmenitiesFinePrint": "本次住宿不含厨房烹饪服务，但欢迎使用厨房内的过滤冷水机、杯具及餐具。",
+    "kitchenDining": "厨房与用餐",
+    "fridgeBody": "<strong>您的冰箱空间：</strong>上层隔板供您使用。如需更多空间，冷冻抽屉内也留有位置 — 如果东西放不下，请随时告知我们。",
+    "kitchenUseBody": "<strong>使用厨房：</strong>欢迎使用电磁炉灶台、电磁烤箱、微波炉、空气炸锅、热水壶、烤面包机及三明治机。如果您之前没用过电磁炉或烤箱，可以请我们简单示范一下 — 如果想以传统方式使用烤箱，需要先取出电磁炉面板。",
+    "dishesBody": "用过的餐具放入水槽即可，我们会负责收纳，您也可以自行装入洗碗机。请避免在特氟龙不粘锅具上使用金属餐具。",
+    "smokeDetectorBody": "<strong>烟雾报警器非常灵敏</strong> &mdash; 烹饪任何有油烟或蒸汽的菜肴时，请将抽油烟机完全打开，并微微打开阳台门通风。",
+    "tapWaterBody": "自来水可直接饮用，此外冰箱门上设有过滤水龙头，冷冻室内也有制冰格。",
+    "laundryBody": "洗衣机就在您房间门外对面 — 一台 <strong>LG TwinWash</strong> 双能洗衣机，上层为标准洗衣机，底座内置一个小型迷你洗衣机，方便快速洗涤小件衣物。",
+    "laundrySteps": [
+      "使用 <strong>下层 TwinWash 迷你洗衣机</strong> 可更快洗完小件衣物。",
+      "洗涤正常大小的衣物请使用 <strong>上层洗衣机</strong>。",
+      "从右上角的开关处开启机器电源。",
+      "使用圆形控制面板选择洗衣机（上层或下层），然后选择洗涤程序。",
+      "洗衣液会自动投放 &mdash; 无需自行添加。"
+    ],
+    "twinwashCap1": "上层洗衣机，用于常规洗涤",
+    "twinwashCap2": "圆形控制面板 &mdash; 选择洗衣机与程序",
+    "twinwashCap3": "下层迷你洗衣机，用于快速洗涤小件衣物",
+    "laundryDryerBody": "也欢迎使用烘干机 &mdash; 请选择45&ndash;60分钟的程序，使用后清理绒毛过滤网。房间备有熨斗和烫衣板，阳台上也设有晾衣架供风干使用。住得比较久？如需更换床品或毛巾，请随时告知我们。"
+  },
+  "home": {
+    "nav": {
+      "eyebrow": "136 Marine Parade &middot; Southport"
+    },
+    "heroEyebrow": "Southport &middot; 黄金海岸 &middot; 澳大利亚",
+    "heroTitle": "两处房源，<br />同一地址。",
+    "ctaU1": "1号公寓 — 整套公寓",
+    "ctaU21": "21号房间 — 私人房间",
+    "fullGuestGuide": "查看完整入住指南",
+    "locationEyebrow": "地理位置",
+    "locationTitle": "身处繁华地段中心",
+    "locationBody": "136 Marine Parade 坐落于 Broadwater 水岸边，乘坐轻轨即可轻松抵达 Surfers Paradise 和 Broadbeach。",
+    "poiTags": [
+      "Main Beach",
+      "Surfers Paradise",
+      "Australia Fair",
+      "Marina Mirage",
+      "Sea World",
+      "Broadwater Parklands",
+      "黄金海岸水上运动中心",
+      "Scarborough Street"
+    ],
+    "hostEyebrow": "您的房东",
+    "hostTitle": "即将入住？",
+    "hostBody": "请点击上方您所住单元的完整入住指南，查看钥匙、Wi-Fi、停车及其他所有入住须知。如有其他问题，请先通过 Airbnb 给我们发消息。"
+  }
+}

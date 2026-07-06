@@ -17,6 +17,8 @@
 
   /* ---------- Wi-Fi reveal (contents already gated by CSS via data-access) ---------- */
   document.querySelectorAll("[data-wifi-btn]").forEach(function (btn) {
+    var showLabel = btn.getAttribute("data-label-show") || btn.textContent;
+    var hideLabel = btn.getAttribute("data-label-hide") || btn.textContent;
     btn.addEventListener("click", function () {
       var unit = btn.getAttribute("data-wifi-btn");
       var details = document.querySelector('[data-wifi-details="' + unit + '"]');
@@ -24,10 +26,10 @@
       var isHidden = details.hasAttribute("hidden");
       if (isHidden) {
         details.removeAttribute("hidden");
-        btn.textContent = "Hide Wi-Fi Details";
+        btn.textContent = hideLabel;
       } else {
         details.setAttribute("hidden", "");
-        btn.textContent = "Show Wi-Fi Details";
+        btn.textContent = showLabel;
       }
     });
   });
@@ -42,10 +44,8 @@
   (function () {
     var body = document.body;
     var storeKey = body.dataset.secretStore;
-    var blobsEl = document.getElementById("encrypted-fields");
-    if (!storeKey || !blobsEl || !window.crypto || !window.crypto.subtle) return;
-
-    var data = JSON.parse(blobsEl.textContent);
+    var src = body.dataset.encryptedSrc;
+    if (!storeKey || !src || !window.crypto || !window.crypto.subtle) return;
 
     function b64ToBytes(b64) {
       var bin = atob(b64);
@@ -54,7 +54,7 @@
       return arr;
     }
 
-    function deriveKey(code) {
+    function deriveKey(data, code) {
       return crypto.subtle
         .importKey("raw", new TextEncoder().encode(code), "PBKDF2", false, ["deriveKey"])
         .then(function (keyMaterial) {
@@ -76,8 +76,8 @@
       );
     }
 
-    function unlockWith(code) {
-      return deriveKey(code)
+    function unlockWith(data, code) {
+      return deriveKey(data, code)
         .then(function (key) {
           var textNames = Object.keys(data.text || {});
           var binNames = Object.keys(data.binary || {});
@@ -123,7 +123,12 @@
     var paramCode = (new URLSearchParams(location.search).get("show_details") || "").slice(0, 6);
     var storedCode = sessionStorage.getItem(storeKey) || "";
     var candidate = paramCode || storedCode;
-    if (candidate) unlockWith(candidate);
+    if (!candidate) return;
+
+    fetch(src)
+      .then(function (res) { return res.json(); })
+      .then(function (data) { unlockWith(data, candidate); })
+      .catch(function () { /* data file missing/unreachable — stay locked */ });
   })();
 
   /* ---------- Wi-Fi QR modal ---------- */
@@ -187,6 +192,15 @@
       raf = requestAnimationFrame(sync);
     });
     sync();
+  });
+
+  /* ---------- Language switcher (preserves ?show_details= across languages) ---------- */
+  document.querySelectorAll("[data-lang-switcher]").forEach(function (select) {
+    select.addEventListener("change", function () {
+      var href = select.value;
+      if (location.search) href += location.search;
+      location.href = href;
+    });
   });
 
   /* ---------- Back to top ---------- */

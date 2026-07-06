@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="{{HTML_LANG}}">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>{{meta.home.title}}</title>
+<meta name="description" content="{{meta.home.description}}" />
+<link rel="icon" href="{{ASSET_PREFIX}}images/favicon.ico" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="{{ASSET_PREFIX}}css/styles.css" />
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <span class="site-header__eyebrow">{{home.nav.eyebrow}}</span>
+    {{LANG_SWITCHER}}
+  </div>
+</header>
+
+<main>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="hero__media">
+      <img src="{{ASSET_PREFIX}}images/building/marina_1.jpg" alt="Aqualine building pool deck with palm trees" />
+      <div class="hero__scrim"></div>
+    </div>
+    <div class="wrap hero__content">
+      <p class="eyebrow eyebrow--light">{{home.heroEyebrow}}</p>
+      <h1 class="hero__title">{{home.heroTitle}}</h1>
+      <p class="hero__address">136 Marine Parade, Southport QLD 4215</p>
+      <div class="hero__ctas">
+        <a href="#unit-1" class="btn btn--primary">{{home.ctaU1}}</a>
+        <a href="#unit-21" class="btn btn--ghost">{{home.ctaU21}}</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ UNIT 1 ============ -->
+  <section id="unit-1" class="listing">
+    <div class="wrap listing__grid">
+      <div class="listing__media">
+        <img src="{{ASSET_PREFIX}}images/unit1/u1_2.jpg" alt="Unit 1 dining table set for four, bright modern interior" loading="lazy" />
+      </div>
+      <div class="listing__body">
+        <p class="tag tag--amber">{{u1.tag}}</p>
+        <h2 class="listing__title">{{u1.title}}</h2>
+        <p class="listing__lede">
+          {{u1.lede}}
+        </p>
+        <ul class="feature-list">
+          <li>{{u1.features.0}}</li>
+          <li>{{u1.features.1}}</li>
+          <li>{{u1.features.2}}</li>
+          <li>{{u1.features.3}}</li>
+          <li>{{u1.features.4}}</li>
+          <li>{{u1.features.5}}</li>
+        </ul>
+        <div class="hero__ctas">
+          <a href="https://www.airbnb.com.au/h/southport-family-stay" target="_blank" rel="noopener" class="btn btn--primary">
+            {{common.bookOnAirbnb}}
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 3h7v7"/><path d="M10 14L21 3"/><path d="M21 14v7h-7"/><path d="M3 10v11h11"/></svg>
+          </a>
+          <a href="listing_01.html" class="btn btn--outline-amber">{{home.fullGuestGuide}}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ UNIT 21 ============ -->
+  <section id="unit-21" class="listing listing--alt">
+    <div class="wrap listing__grid listing__grid--reverse">
+      <div class="listing__media">
+        <img src="{{ASSET_PREFIX}}images/unit21/u21_1.jpg" alt="Unit 21 private bedroom with tropical print bedding" loading="lazy" />
+      </div>
+      <div class="listing__body">
+        <p class="tag tag--teal">{{u21.tag}}</p>
+        <h2 class="listing__title">{{u21.title}}</h2>
+        <p class="listing__lede">
+          {{u21.lede}}
+        </p>
+        <ul class="feature-list">
+          <li>{{u21.features.0}}</li>
+          <li>{{u21.features.1}}</li>
+          <li>{{u21.features.2}}</li>
+          <li>{{u21.features.3}}</li>
+        </ul>
+        <div class="hero__ctas">
+          <a href="https://www.airbnb.com.au/h/southporthaven" target="_blank" rel="noopener" class="btn btn--teal">
+            {{common.bookOnAirbnb}}
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 3h7v7"/><path d="M10 14L21 3"/><path d="M21 14v7h-7"/><path d="M3 10v11h11"/></svg>
+          </a>
+          <a href="listing_21.html" class="btn btn--outline-teal">{{home.fullGuestGuide}}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ NEARBY / LOCATION ============ -->
+  <section class="section section--tint">
+    <div class="wrap nearby__grid">
+      <div class="nearby__media">
+        <img src="{{ASSET_PREFIX}}images/building/marina_3.jpg" alt="Aerial view of Southport, the Broadwater, and the Gold Coast skyline" loading="lazy" />
+      </div>
+      <div>
+        <p class="eyebrow">{{home.locationEyebrow}}</p>
+        <h2 class="section-title">{{home.locationTitle}}</h2>
+        <p class="listing__lede">{{home.locationBody}}</p>
+        <ul class="poi-tags">
+          <li>{{home.poiTags.0}}</li>
+          <li>{{home.poiTags.1}}</li>
+          <li>{{home.poiTags.2}}</li>
+          <li>{{home.poiTags.3}}</li>
+          <li>{{home.poiTags.4}}</li>
+          <li>{{home.poiTags.5}}</li>
+          <li>{{home.poiTags.6}}</li>
+          <li>{{home.poiTags.7}}</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HOST / FOOTER ============ -->
+  <footer class="site-footer">
+    <div class="wrap">
+      <p class="eyebrow eyebrow--light">{{home.hostEyebrow}}</p>
+      <h2 class="site-footer__name">{{home.hostTitle}}</h2>
+      <p class="site-footer__contact" style="max-width:52ch;color:var(--text-on-dark-muted)">
+        {{home.hostBody}}
+      </p>
+      <p class="site-footer__address">📍 136 Marine Parade, Southport QLD 4215</p>
+    </div>
+    <div class="site-footer__bottom">
+      <div class="wrap site-footer__bottom-inner">
+        <span>136 Marine Parade, Southport QLD 4215</span>
+        <span>Unit 1 &middot; Unit 21</span>
+      </div>
+    </div>
+  </footer>
+
+</main>
+
+<button class="to-top" id="toTop" aria-label="{{common.backToTop}}">↑</button>
+
+<script src="{{ASSET_PREFIX}}js/main.js"></script>
+</body>
+</html>

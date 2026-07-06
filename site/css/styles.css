@@ -23,6 +23,9 @@
   --serif: "Fraunces", ui-serif, Georgia, serif;
   --sans: "Inter", ui-sans-serif, -apple-system, "Segoe UI", Roboto, sans-serif;
 
+  --cjk-sans: "PingFang SC", "Hiragino Sans", "Noto Sans CJK", "Microsoft YaHei",
+    "Malgun Gothic", "Apple SD Gothic Neo", system-ui, sans-serif;
+
   --radius-s: 10px;
   --radius-m: 16px;
   --radius-l: 24px;
@@ -33,6 +36,13 @@
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
+
+/* CJK languages: Fraunces/Inter have no CJK glyphs — fall back to the
+   device's native CJK font instead of shipping a multi-MB webfont. */
+html:lang(zh), html:lang(ko), html:lang(ja) {
+  --serif: var(--cjk-sans);
+  --sans: var(--cjk-sans);
+}
 
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
@@ -138,6 +148,17 @@ img { max-width: 100%; display: block; }
   text-decoration: none; display: inline-flex; align-items: center; gap: .35rem;
 }
 .site-header__back:hover { text-decoration: underline; }
+.lang-switcher {
+  display: inline-flex; align-items: center; gap: .3rem;
+  margin-left: auto;
+}
+.lang-switcher__icon { font-size: .95rem; line-height: 1; }
+.lang-switcher__select {
+  font-family: var(--sans); font-size: .78rem; font-weight: 600;
+  color: var(--ink-2); background: var(--paper);
+  border: 1px solid var(--line); border-radius: var(--radius-s);
+  padding: .3rem .5rem; cursor: pointer;
+}
 
 /* ---------- hero ---------- */
 .hero {
