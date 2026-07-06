@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "u1": {
+      "title": "Guia do Hóspede da Unidade 1 — 136 Marine Parade, Southport",
+      "description": "Guia completo para a Unidade 1 em 136 Marine Parade, Southport — chaves, Wi-Fi, estacionamento, regras da casa e tudo o que você precisa."
+    },
+    "u21": {
+      "title": "Guia do Hóspede da Unidade 21 — 136 Marine Parade, Southport",
+      "description": "Guia completo para a Unidade 21 em 136 Marine Parade, Southport — chaves, Wi-Fi, cozinha, lavanderia, regras da casa e tudo o que você precisa."
+    },
+    "home": {
+      "title": "136 Marine Parade, Southport — Guia do Hóspede",
+      "description": "Tudo o que você precisa para sua estadia em 136 Marine Parade, Southport — Unidade 1 e Unidade 21."
+    }
+  },
+  "common": {
+    "guestGuideEyebrow": "Instruções",
+    "guestGuideTitle": "Guia do Hóspede",
+    "acc": {
+      "keysAccess": "Chaves e Acesso",
+      "acComfort": "Ar-Condicionado e Conforto",
+      "houseRules": "Regras da Casa",
+      "houseRulesFinePrint": "O descumprimento destas regras pode resultar no cancelamento imediato da sua estadia.",
+      "pool": "Piscina, Jacuzzi e Churrasqueira",
+      "safety": "Segurança",
+      "laundry": "Lavanderia",
+      "parking": "Estacionamento",
+      "wifi": "Wi-Fi",
+      "wifiLocked": "🔒 Os dados do Wi-Fi estão disponíveis através do link na confirmação da sua reserva.",
+      "wifiShowBtn": "Mostrar Dados do Wi-Fi",
+      "wifiHideBtn": "Ocultar Dados do Wi-Fi",
+      "wifiQrBtn": "Mostrar Código QR",
+      "wifiNetwork": "Rede:",
+      "wifiPassword": "Senha:",
+      "hostLockedNote": "🔒 O nome e o contato direto do anfitrião são compartilhados na confirmação da sua reserva."
+    },
+    "transportEyebrow": "Transporte",
+    "transportTitle": "Como Chegar e se Locomover",
+    "fromOOL": "Do Aeroporto de Gold Coast (OOL)",
+    "fromBNE": "Do Aeroporto de Brisbane (BNE)",
+    "publicTransport": "Transporte público",
+    "driveUber": "Carro / Uber",
+    "oolPublicBody": "Ônibus 777 até Broadbeach North, depois bonde (tram) até Southport. Cerca de 1 km a pé a partir do ponto.",
+    "oolDriveBody": "35&ndash;45 minutos, dependendo do trânsito.",
+    "bnePublicBody": "Airtrain até Helensvale, depois bonde (tram) até Southport. Cerca de 1 km a pé.",
+    "bneDriveBody": "60&ndash;90 minutos, dependendo do trânsito.",
+    "gettingAround": "Como se Locomover",
+    "gettingAroundBody": "O bonde <strong>G:link</strong> conecta Southport, Surfers Paradise e Broadbeach. Basta aproximar o cartão de crédito ou débito ao embarcar e ao desembarcar, ou adquirir um Go Card em qualquer estação. A tarifa atual é de 50 centavos por viagem.",
+    "onArrival": "Na Chegada",
+    "onArrivalAlert": "<strong>Por favor, não peça ajuda ou informações na recepção</strong> &mdash; eles não atendem hóspedes do Airbnb. Tudo o que você precisa está aqui, ou envie uma mensagem para nós pelo Airbnb.",
+    "arrivalStep1Label": "Sua chave",
+    "arrivalStep1Body": "Vamos recebê-lo pessoalmente ou deixar a chave em um local seguro, combinado com você antes da sua chegada.",
+    "arrivalStep2Label": "Na porta",
+    "arrivalStep2Body": "Toque a campainha da <strong>Unidade 21</strong> no interfone da entrada principal &mdash; é lá que moramos, e vamos abrir a porta ou descer para recebê-lo.",
+    "foodEyebrow": "Comida e Bebida",
+    "foodTitle": "Onde Comer",
+    "walkingDistance": "A Poucos Passos",
+    "worthTheTrip": "Vale a Pena o Passeio",
+    "poi": {
+      "dak": "Frango frito coreano, tigelas de arroz",
+      "galB": "Churrasco coreano, prepare você mesmo na mesa",
+      "catalina": "Restaurante à beira-d'água, com vista para Broadwater Parklands",
+      "absoluteThai": "Curries e refogados tailandeses autênticos",
+      "milkyLane": "Hambúrgueres recheados, em Surfers Paradise",
+      "marketta": "Mercado noturno e comida de rua",
+      "petersHouse": "Barato, animado e gloriosamente excêntrico &mdash; um favorito econômico, não um restaurante sofisticado",
+      "kurrawa": "Restaurante à beira-mar com belas vistas",
+      "shiraz": "Culinária persa muito bem avaliada",
+      "burleighPavilion": "Restaurante sobre a falésia, em Burleigh Heads",
+      "rickShores": "Alta gastronomia com influência asiática, em Burleigh Heads",
+      "bskt": "Café voltado para alimentação saudável, em Nobby Beach",
+      "mermaidSlsc": "Ambiente descontraído de clube de praia"
+    },
+    "exploreEyebrow": "Gold Coast",
+    "exploreTitle": "Explore a Gold Coast",
+    "hinterland": "Interior",
+    "coastal": "Litoral",
+    "wildlifeParks": "Vida Selvagem e Parques",
+    "cultureMarkets": "Cultura e Mercados",
+    "hota": "HOTA — Mercado de Produtores e Artesanato de Domingo",
+    "safetyEyebrow": "Segurança",
+    "emergencyTitle": "Contatos de Emergência",
+    "emergency": {
+      "police000Label": "Emergência (polícia, bombeiros, ambulância)",
+      "policeLabel": "Polícia (não emergência)",
+      "sesLabel": "SES (tempestades e enchentes)",
+      "poisonsLabel": "Informações sobre Intoxicações",
+      "healthLabel": "13 HEALTH (linha de aconselhamento de enfermagem)",
+      "lifelineLabel": "Lifeline (apoio em crise 24h)",
+      "hospitalLabel": "Gold Coast University Hospital",
+      "footnote": "Gold Coast University Hospital: 1 Hospital Blvd, Southport QLD 4215. Para qualquer assunto relacionado ao apartamento, envie uma mensagem primeiro pelo Airbnb — em uma emergência real, sempre ligue para o 000 primeiro."
+    },
+    "hostEyebrow": "Seu Anfitrião",
+    "hostTitle": "Seu Anfitrião Local",
+    "hostInline": "disponível na confirmação da reserva",
+    "wifiQrClose": "✕ Fechar",
+    "backToTop": "Voltar ao topo",
+    "bookOnAirbnb": "Reservar no Airbnb"
+  },
+  "u1": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "Unidade 1 &middot; Estadia em Família em Southport"
+    },
+    "tag": "Apartamento Inteiro",
+    "title": "Estadia em Família em Southport",
+    "lede": "Um apartamento completo de dois quartos e dois banheiros no 1º andar — estacionamento subterrâneo seguro, varanda com vista para a piscina, e o espaço todo só para vocês.",
+    "features": [
+      "Estacionamento subterrâneo seguro incluído",
+      "Dois quartos, cada um com banheiro praticamente exclusivo",
+      "Varanda privativa com vista para a piscina",
+      "Piscina &middot; Jacuzzi &middot; Área de churrasco",
+      "Wi-Fi rápido &mdash; fibra NBN até o prédio com ponto de acesso Wi-Fi 7",
+      "Berço portátil incluído, é só pedir e nós o preparamos"
+    ],
+    "carousel": {
+      "cap1": "A sala se abre para uma janela com vista para a piscina",
+      "cap2": "Dois quartos claros, com bastante espaço para desfazer as malas",
+      "cap3": "Uma cozinha completa &mdash; cooktop de indução, forno, fritadeira elétrica",
+      "cap4": "Sala e jantar integrados, repletos de luz natural",
+      "cap5": "Relaxe no sofá depois de um dia de praia",
+      "cap6": "Dois banheiros completos, sem fila para o chuveiro",
+      "cap7": "Sua varanda sobre a piscina, iluminada ao entardecer"
+    },
+    "whatsInside": "O que tem dentro",
+    "medley": [
+      "Estacionamento subterrâneo seguro incluído",
+      "Dois quartos e dois banheiros completos",
+      "Varanda privativa sobre a piscina",
+      "Cozinha completa: indução, forno, fritadeira elétrica e cafeteira",
+      "Wi-Fi 7 rápido via fibra NBN",
+      "Lavadora e secadora, ferro e tábua de passar",
+      "Berço portátil, preparado sob solicitação",
+      "Piscina, jacuzzi e área de churrasco"
+    ],
+    "keysAccessBody": "Você receberá duas chaves: um chaveiro cinza para a entrada principal e o elevador, e uma chave maior para a porta do apartamento — gire no sentido anti-horário para abrir.",
+    "keysAccessLocked": "🔒 Os detalhes de acesso ao estacionamento são compartilhados na confirmação da sua reserva.",
+    "acComfortBody": "O ar-condicionado fica na sala de estar. Ele resfria bem o apartamento, mas para que os quartos esfriem de forma eficaz, deixe as portas levemente abertas.",
+    "houseRules": [
+      "Não é permitido fumar, usar cigarro eletrônico ou drogas ilícitas em nenhum lugar do apartamento, na varanda, na piscina ou em qualquer área comum do prédio.",
+      "Não são permitidas festas ou eventos — por favor, mantenha o barulho em respeito aos vizinhos.",
+      "Somente os hóspedes incluídos na reserva podem se hospedar ou usar o apartamento.",
+      "Não são permitidos animais de estimação."
+    ],
+    "poolBody": "Você tem acesso total à piscina externa e à jacuzzi, incluindo as espreguiçadeiras e os assentos.",
+    "safetyBody": "Use seu chaveiro para acessar o prédio e o elevador, e certifique-se de que as portas se fechem atrás de você.",
+    "laundryBody": "Use o ciclo <strong>Quick 30</strong> para uma lavagem rápida, ou <strong>Cotton Quick</strong> para algo mais completo. Duas cápsulas de detergente são fornecidas — coloque uma diretamente no tambor. Prefere detergente líquido? Use o compartimento da gaveta esquerda (marcado <strong>II</strong>); o amaciante vai no compartimento do meio. Se usar a secadora, limpe o filtro de fiapos entre os ciclos.",
+    "parkingBody": "Uma vaga reservada no estacionamento subterrâneo seguro está incluída neste apartamento.",
+    "parkingLocked": "🔒 O número exato da sua vaga e as instruções de acesso são compartilhados na confirmação da sua reserva.",
+    "parkingMapCaption": "Vire 180° à esquerda após a rampa de entrada — a Vaga 1 fica no fundo, à esquerda.",
+    "visitorParking": "<strong>Visitantes:</strong> há duas vagas de visitantes no nível térreo do estacionamento &mdash; as duas últimas vagas do lado sul do prédio. São por ordem de chegada, então tenha um plano alternativo em mente em dias mais movimentados.",
+    "streetParking": "Também há estacionamento gratuito na rua, fora do prédio, e estacionamento pago a uma curta caminhada, no Broadwater Parklands."
+  },
+  "u21": {
+    "nav": {
+      "backLink": "&larr; 136 Marine Parade",
+      "eyebrow": "Unidade 21 &middot; Refúgio à Beira-d'água em Southport"
+    },
+    "tag": "Quarto Privativo",
+    "title": "Refúgio à Beira-d'água em Southport",
+    "lede": "Um quarto privativo com banheiro próprio no 5º andar, na casa do seu anfitrião finlandês Jani — alto o suficiente para vistas para a água, com um banheiro que é genuinamente só seu.",
+    "features": [
+      "5º andar &middot; Vista para o Broadwater a partir da varanda",
+      "Banheiro privativo &mdash; sem precisar atravessar o apartamento",
+      "Geladeira própria, ventilador Dyson, mesa e cadeira ergonômica",
+      "TV Samsung 4K com Netflix e aplicativos de streaming"
+    ],
+    "carousel": {
+      "cap1": "Vista para o Broadwater a partir da sua varanda",
+      "cap2": "Seu quarto privativo, bem alto, no 5º andar",
+      "cap3": "Um banheiro privativo que é genuinamente só seu",
+      "cap4": "TV Samsung 4K com Netflix e streaming",
+      "cap5": "Sua própria geladeira, chaleira e ventilador Dyson",
+      "cap6": "Uma mesa de verdade e cadeira ergonômica"
+    },
+    "whatsInside": "O que tem no seu quarto",
+    "medley": [
+      "Banheiro privativo &mdash; só seu",
+      "Varanda no 5º andar, vista para o Broadwater",
+      "Sua própria geladeira, chaleira e ventilador Dyson",
+      "TV Samsung 4K com Netflix",
+      "Mesa de verdade e cadeira ergonômica",
+      "Persiana blackout para dormir tranquilamente até mais tarde",
+      "Dispensador de água gelada filtrada e gelo",
+      "Piscina, jacuzzi e churrasqueira compartilhados"
+    ],
+    "keysAccessBody": "Você receberá três chaves: um chaveiro cinza para a entrada principal e o elevador, uma chave maior para a porta do apartamento (gire no sentido anti-horário para abrir) e uma chave menor que tranca a porta do seu quarto privativo.",
+    "acComfortBody": "O apartamento tem ar-condicionado, além do seu próprio ventilador Dyson no quarto para circulação de ar extra sempre que você quiser.",
+    "acComfortLocked": "🔒 Dicas para a melhor temperatura no seu quarto são compartilhadas na confirmação da sua reserva.",
+    "houseRules": [
+      "Não é permitido fumar dentro do apartamento ou nas varandas.",
+      "Somente hóspedes registrados — sem visitantes não cadastrados."
+    ],
+    "poolBody": "Você tem acesso total à piscina externa, jacuzzi e churrasqueira, incluindo espreguiçadeiras e assentos. Nos avise se quiser uma toalha de praia.",
+    "safetyBody": "Use seu chaveiro para acessar o prédio e o elevador, e certifique-se de que as portas se fechem atrás de você. Seu quarto tem uma fechadura própria, e a porta externa do banheiro privativo tem uma trava que você pode baixar para mais privacidade.",
+    "roomAmenities": "Comodidades do Quarto",
+    "roomAmenitiesBody": "Seu quarto conta com um ventilador Dyson moderno para circulação de ar quando quiser, uma chaleira com café e chá, sua própria geladeira, uma mesa com uma cadeira de escritório de verdade, e uma persiana blackout tipo cassete para você dormir até mais tarde mesmo com o sol já alto.",
+    "roomAmenitiesFinePrint": "Cozinhar não está incluído nesta estadia, mas fique à vontade para usar o dispensador de água gelada filtrada, xícaras e utensílios na cozinha.",
+    "kitchenDining": "Cozinha e Refeições",
+    "fridgeBody": "<strong>Seu espaço na geladeira:</strong> a prateleira de cima é para seu uso. Precisa de mais espaço? Também há lugar na gaveta do freezer — é só nos avisar se estiver difícil encaixar tudo.",
+    "kitchenUseBody": "<strong>Usando a cozinha:</strong> fique à vontade para usar o cooktop (indução), forno (indução), micro-ondas, fritadeira elétrica, chaleira, torradeira e sanduicheira. Peça uma explicação rápida sobre o cooktop e o forno de indução se nunca tiver usado um antes — se quiser usar o forno da forma tradicional, a chapa de indução precisa ser retirada primeiro.",
+    "dishesBody": "Deixe a louça suja na pia e nós a guardaremos, ou coloque-a você mesmo na lava-louças. Evite utensílios de metal nas panelas com revestimento antiaderente.",
+    "smokeDetectorBody": "<strong>Os detectores de fumaça são muito sensíveis</strong> &mdash; ao cozinhar algo com muita fumaça ou vapor, abra totalmente a coifa e entreabra a porta da varanda para ventilação.",
+    "tapWaterBody": "A água da torneira é segura para beber, e há também um dispensador de água filtrada na porta da geladeira e um compartimento de gelo no freezer.",
+    "laundryBody": "A máquina de lavar fica bem em frente à porta do seu quarto — uma <strong>LG TwinWash</strong>, com uma lavadora de tamanho normal em cima e uma pequena lavadora tipo pedestal embutida na base, para lavagens rápidas e pequenas.",
+    "laundrySteps": [
+      "Use a <strong>lavadora pedestal TwinWash inferior</strong> para lavar cargas pequenas mais rápido.",
+      "Use a <strong>lavadora superior</strong> para cargas de tamanho normal.",
+      "Ligue a máquina pelo interruptor no canto superior direito.",
+      "Use o painel de controle redondo para escolher a lavadora (superior ou inferior) e depois selecione o programa.",
+      "O detergente é dispensado automaticamente — não é necessário adicionar o seu."
+    ],
+    "twinwashCap1": "Lavadora superior, para cargas normais",
+    "twinwashCap2": "Painel redondo &mdash; escolha a lavadora e o programa",
+    "twinwashCap3": "Pedestal inferior, para lavagens rápidas e pequenas",
+    "laundryDryerBody": "Fique à vontade para usar a secadora também &mdash; escolha um ciclo de 45&ndash;60 minutos e limpe o filtro de fiapos depois. Um ferro e uma tábua de passar estão disponíveis, e há um varal na varanda se preferir secar ao ar livre. Ficando por mais tempo? É só pedir se precisar de roupas de cama ou toalhas novas."
+  },
+  "home": {
+    "nav": {
+      "eyebrow": "136 Marine Parade &middot; Southport"
+    },
+    "heroEyebrow": "Southport &middot; Gold Coast &middot; Austrália",
+    "heroTitle": "Duas estadias,<br />um único endereço.",
+    "ctaU1": "Unidade 1 — Apartamento Inteiro",
+    "ctaU21": "Unidade 21 — Quarto Privativo",
+    "fullGuestGuide": "Guia Completo do Hóspede",
+    "locationEyebrow": "Localização",
+    "locationTitle": "Bem no Centro de Tudo",
+    "locationBody": "O 136 Marine Parade fica à beira do Broadwater, a um curto trajeto de bonde de Surfers Paradise e Broadbeach.",
+    "poiTags": [
+      "Main Beach",
+      "Surfers Paradise",
+      "Australia Fair",
+      "Marina Mirage",
+      "Sea World",
+      "Broadwater Parklands",
+      "Gold Coast Aquatic Centre",
+      "Scarborough Street"
+    ],
+    "hostEyebrow": "Seu Anfitrião",
+    "hostTitle": "Hospedado conosco?",
+    "hostBody": "Abra o guia completo do hóspede da sua unidade acima para chaves, Wi-Fi, estacionamento e tudo mais que você precisar. Para qualquer outra coisa, envie uma mensagem primeiro pelo Airbnb."
+  }
+}
