@@ -12,7 +12,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 LOCAL_TARGET="/var/www/gp_projects/airbnb/"
 REMOTE_TARGET="js_com:public_html/"
 
-RSYNC_OPTS=(-avz --delete --exclude=deploy.sh)
+RSYNC_OPTS=(-avz --delete --exclude=deploy.sh --exclude=i18n/)
 if [[ "${2:-}" == "--dry-run" ]]; then
   RSYNC_OPTS+=(--dry-run)
   echo "(dry run — no files will actually be changed)"
